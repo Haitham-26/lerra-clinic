@@ -17,7 +17,7 @@
                         </div>
                         <div class="position-absolute start-0 end-0" style="z-index: -1; bottom: -1px">
                             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 116" preserveAspectRatio="none">
-                                <path class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s" fill-opacity="0.2" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
+                                <path fill="#ffff" class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s" fill-opacity="0.2" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
 
                                 <path fill="#ffff" class="animate__animated animate__fadeInUp wow" fill-opacity="0.6" d="M0,80 C200,46.6666667 400,30 600,30 C800,30 1000,46.6666667 1200,80 L1200,116 L0,116 L0,80 Z"></path>
 
@@ -134,12 +134,6 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
-                    <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
-                    <div class="d-flex flex-column gap-2 m-3">
-                        <li>
-                            <a class="pw-catg p-1" href="#">Genel</a>
-                        </li>
 
                 <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
                     <a href="./single-page.php">
@@ -166,13 +160,6 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
-                    <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
-                    <div class="d-flex flex-column gap-2 m-3">
-                        <li>
-                            <a class="pw-catg p-1" href="#">Genel</a>
-                        </li>
-
                 <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
                     <a href="./single-page.php">
                         <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
