@@ -1,7 +1,7 @@
 <footer class="bg-main py-5 px-3">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-md-6 col-lg-4 gy-3">
+                    <div class="col-12 col-md-4 gy-4">
                         <div class="d-flex flex-column gap-2">
                             <div class="pw-ftr-logo">
                                 <img src="./assets/img/lerra-logo-footer.png" alt="lerra-clinic" class="w-100" />
@@ -13,7 +13,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-3 gy-3">
+                    <div class="col-12 col-md-4 gy-4">
                         <div class="pw-ftr-lnks">
                             <h3 class="fw-bold text-white fs-5 mb-4 animate__animated animate__fadeInUp wow">Operations</h3>
                             <ul class="list-unstyled d-flex flex-column gap-3 p-0 text-white">
@@ -44,7 +44,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-3 gy-3">
+                    <div class="col-12 col-md-4 gy-4">
                         <form class="pw-frm bg-white py-5 px-4 rounded">
                             <div class="d-flex flex-column gap-3 p-1">
                                 <div class="d-flex align-items-center gap-1">
@@ -93,7 +93,6 @@
                 </a>
             </div>
         </div>
-
         <!-- Side fixed whatsapp -->
         <div class="pw-fxd-wtsp position-fixed">
             <div class="position-relative">

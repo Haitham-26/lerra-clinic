@@ -29,7 +29,6 @@ const swiper = new Swiper(".socialProofSwiper", {
     effect: "creative",
     creativeEffect: {
         prev: {
-            shadow: false,
             translate: [0, 0, -400],
         },
         next: {

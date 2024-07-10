@@ -69,7 +69,7 @@
     </section>
     <!-- Networks Section -->
     <section class="my-5">
-        <div class="container-fluid">
+        <div class="container-fluid container-md">
             <div class="row justify-content-center">
                 <div class="col-12">
                     <h2 class="text-center fw-semibold fs-5 my-4">Find Us On World Most Trusted Networks</h2>
@@ -283,7 +283,6 @@
     </section>
 
     <!-- Istanbul Photo Section -->
-
     <section class="pw-ist-img-sctn overflow-hidden d-none d-lg-block my-5">
         <div class="container-fluid p-0">
             <div class="row">
@@ -349,7 +348,7 @@
             <div class="row align-items-center">
                 <div class="col-1 d-none d-md-block"></div>
                 <div class="col-12 col-md-6">
-                    <div>
+                    <div class="text-center text-md-start">
                         <h2 class="fw-bold text-sub animate__animated animate__fadeInUp wow">Reviews of Our Patients</h2>
                         <p class="fs-5 animate__animated animate__fadeInUp wow">The address of satisfaction in the health sector is Lerra Clinic</p>
                     </div>
@@ -358,7 +357,7 @@
                     <div class="position-relative pw-scl-prf-wrp">
                         <div class="swiper socialProofSwiper">
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide p-md-5 p-lg-4">
+                                <div class="swiper-slide p-4">
                                     <div class="pw-scl-prf-crd pw-trns-3 pw-on-hvr-trns-top p-5 m-auto bg-white rounded-2 d-flex flex-column gap-4 align-items-center justify-content-center">
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
@@ -376,7 +375,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide p-md-5 p-lg-4">
+                                <div class="swiper-slide p-4">
                                     <div class="pw-scl-prf-crd pw-trns-3 pw-on-hvr-trns-top p-5 m-auto bg-white rounded-2 d-flex flex-column gap-4 align-items-center justify-content-center">
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
@@ -394,7 +393,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide p-md-5 p-lg-4">
+                                <div class="swiper-slide p-4">
                                     <div class="pw-scl-prf-crd pw-trns-3 pw-on-hvr-trns-top p-5 m-auto bg-white rounded-2 d-flex flex-column gap-4 align-items-center justify-content-center">
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
