@@ -37,3 +37,13 @@ const swiper = new Swiper(".socialProofSwiper", {
         },
     },
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".heart-icon").forEach(function (icon) {
+        icon.addEventListener("click", function () {
+            this.classList.toggle("fa-solid");
+            this.classList.toggle("fa-regular");
+            this.style.color = this.style.color === "red" ? "" : "red";
+        });
+    });
+});

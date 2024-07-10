@@ -45,6 +45,9 @@ Tags:planet, www, travel, tourism.
 .text-ttl {
     color: var(--pw-ttl);
 }
+.text-hvr {
+    color: var(--pw-hvr);
+}
 .bg-gray {
     background-color: var(--pw-gray);
 }
@@ -70,6 +73,10 @@ body {
         background-color: var(--pw-main);
         color: #fff;
     }
+}
+
+li {
+    list-style: none;
 }
 
 a {
@@ -525,11 +532,8 @@ a {
 /* ____________ */
 
 /* Blogs card */
-.pw-blgs-crd {
-    color: var(--pw-ttl);
-}
+
 .pw-blgs-crd h3 {
-    color: var(--pw-sub);
     height: 3em;
 }
 .pw-blgs-crd p {
@@ -542,8 +546,15 @@ a {
     border-radius: 0.3em;
     font-size: 15px;
 }
+
+.pw-blg-crd {
+    right: 1.5rem;
+    width: 5rem;
+    transition: all 0.5s;
+}
 .pw-blg-crd:hover {
-    margin-right: 1em;
+    color: var(--pw-sub);
+    width: 6em;
     transition: all 0.4s;
     cursor: pointer;
 }
@@ -551,30 +562,11 @@ a {
 .pagination {
     --bs-pagination-border-color: none;
     color: var(--pw-ttl);
-}
-.pagination .page-link {
-    color: var(--pw-ttl);
-}
-.pw-socl-pst {
-    color: var(--pw-ttl);
-}
-/* Text */
-.pw-txt-pst {
-    color: var(--pw-ttl);
-}
-.pw-txt-pst h2 {
-    color: var(--pw-main);
+    --bs-pagination-focus-box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    --bs-pagination-focus-bacgroun-color: white;
+    --bs-pagination-focus-bg: none;
 }
 
-.pw-prv-pst,
-.pw-nxt-pst {
-    color: var(--pw-ttl);
-}
-
-.pw-prv-pst,
-.pw-nxt-pst h5 {
-    color: var(--pw-sub);
-}
 .pw-prv-pst:hover {
     margin-left: 1em;
     transition: all 0.4s;

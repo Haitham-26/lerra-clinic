@@ -8,12 +8,12 @@
               <img src="./assets/img/page-hero-bg.jpg" />
             </div>
             <div
-              class="position-absolute d-flex flex-column align-items-center justify-content-center"
-              style="z-index: 1; color: var(--pw-hvr)"
+              class="position-absolute d-flex flex-column align-items-center justify-content-center text-hvr"
+              style="z-index: 1; "
             >
-              <h1 class="animate_animated animatebounce animate_fadeInUp">Blog</h1>
+              <h1 class="animate__animated animate__fadeInUp">Blog</h1>
               <span
-                class="animate_animated animatebounce animate_slideInLeft fw-bold d-flex align-items-center justify-content-center gap-2"
+                class="animate__animated  animate__slideInLeft fw-bold d-flex align-items-center justify-content-center gap-2"
                 ><a href="./index.html">Home</a
                 ><i class="fa-solid fa-angle-right"></i>Blog</span
               >
@@ -66,15 +66,15 @@
       <section class="pt-5">
         <div class="container p-md-5">
           <div class="row align-items-center g-md-5 g-4">
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100 h-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+              <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
 
-                <h3>How does a chin implant work</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">How does a chin implant work</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   How Does Chin Implant Work A chin job, or mentoplasty, makes
                   your chin look better by making it stick out more and shaping
@@ -84,12 +84,11 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                  <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
-
                 <a
-                  class="d-flex justify-content-between align-items-center gap-2"
+                  class=" d-flex justify-content-between align-items-center gap-2"
                 >
                   <span class="fw-bold pw-blg-crd">Read more</span>
                   <i class="fa-solid fa-angle-right"></i>
@@ -97,15 +96,15 @@
               </div>
             </div>
 
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+            <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
 
-                <h3>Otoplasty in Turkey, İstanbul</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">Otoplasty in Turkey, İstanbul</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   Otoplasty In Turkey Otoplasty which is also referred to as ear
                   surgery or ear pinning has made Turkey popular among many
@@ -115,12 +114,12 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                  <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
 
                 <a
-                  class="d-flex justify-content-between align-items-center gap-2"
+                  class=" d-flex justify-content-between align-items-center gap-2"
                 >
                   <span class="fw-bold pw-blg-crd">Read more</span>
                   <i class="fa-solid fa-angle-right"></i>
@@ -128,14 +127,14 @@
               </div>
             </div>
 
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100 h-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+            <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
-                <h3>How long do chin implants last</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">How long do chin implants last</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   How Long Do Chin Implants Last? Chin implants are prostheses
                   that aim at a durable correction of an unattractive chin.
@@ -145,7 +144,7 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
 
@@ -158,15 +157,15 @@
               </div>
             </div>
 
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100 h-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+            <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
 
-                <h3>Liposuction for Men</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">Liposuction for Men</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   Sucking fat out is a top skin fix job that more guys now like.
                   At first, women mostly had this done, but now lots of men do
@@ -175,7 +174,7 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
 
@@ -187,15 +186,15 @@
                 </a>
               </div>
             </div>
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100 h-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+            <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
 
-                <h3>How Much Weight Loss After Liposuction?</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">How Much Weight Loss After Liposuction?</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   How Does Liposuction Work? Liposuction in brief is an
                   operation of getting rid of unwanted fat from a certain part
@@ -205,7 +204,7 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
 
@@ -217,15 +216,15 @@
                 </a>
               </div>
             </div>
-            <div class="col-md-4 col-12 pw-blgs-crd">
-              <img class="w-100 h-100" src="./assets/img/blog-card-1.webp" />
+            <div class="col-md-4 col-12 pw-blgs-crd text-ttl">
+            <img class="w-100 h-100" src="./assets/img/search-page-recent-posts-1.jpg" />
               <div class="d-flex flex-column gap-2 m-3">
                 <li>
                   <a class="pw-catg p-1" href="#">Genel</a>
                 </li>
 
-                <h3>Is Plastic Surgery In Turkey Cheaper</h3>
-                <a><i class="bi bi-clock"></i> 28 May 2024</a>
+                <h3 class="text-sub">Is Plastic Surgery In Turkey Cheaper</h3>
+                <a><i class="fa-regular fa-clock"></i> 28 May 2024</a>
                 <p>
                   Plastic Surgery Procedures In Turkey Plastic surgery has now
                   become a principal hub, which attracts people from different
@@ -236,7 +235,7 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex gap-3 align-items-center">
-                  <a><i class="bi bi-person-circle fs-4"></i></a>
+                <a><i class="fa-solid fa-circle-user fs-4"></i></a>
                   <a><i class="fa-regular fa-heart heart-icon fs-4 align-items-center"></i></a>
                 </div>
 
@@ -255,14 +254,14 @@
       <section>
         <div class="container mt-5">
           <div class="row align-items-center">
-            <nav aria-label="Page navigation example">
-              <ul class="pagination justify-content-center gap-5">
+            <nav aria-label="Page navigation example ">
+              <ul class="pagination justify-content-center text-ttl gap-5">
                 <li class="page-item"></li>
-                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link text-ttl" href="#">1</a></li>
+                <li class="page-item"><a class="page-link text-ttl" href="#">2</a></li>
+                <li class="page-item"><a class="page-link text-ttl" href="#">3</a></li>
                 <li class="page-item">
-                  <a class="page-link" href="#" aria-label="Next">
+                  <a class="page-link text-ttl" href="#" aria-label="Next">
                     <span aria-hidden="true">&raquo;</span>
                   </a>
                 </li>
