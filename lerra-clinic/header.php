@@ -17,7 +17,7 @@
     <body>
         <header class="pw-hdr">
             <!-- phone and tablet nav -->
-            <section class="d-lg-none">
+            <section class="d-lg-none bg-light">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -28,162 +28,136 @@
                     </div>
                 </div>
             </section>
-            <nav class="navbar navbar-expand-lg bg-body-tertiary d-lg-none shadow-sm">
-                <div class="container-fluid">
-                    <a class="pw-hdr-logo" href="#">
-                        <img src="./assets/img/lerra-logo-header.png" alt="lerra-clinic" class="w-100" />
-                    </a>
-                    <div class="text-center m-auto">Lang</div>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav d-flex flex-column gap-3 me-auto my-2">
-                            <li>
-                                <div class="dropdown">
-                                    <a href="./page.html" class="fw-bold text-ttl fw-bold dropdown-toggle bg-transparent" id="plasticSurgery" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Plastic Surgery</a>
-                                    <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="plasticSurgery" id="plasticSurgeryDD">
-                                        <li>
-                                            <div class="dropdown w-100">
-                                                <a href="./page.html" class="w-100 dropdown-toggle text-ttl fw-bold p-3 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Facial Plastic Surgery </a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="dropdown w-100">
-                                                <a href="./page.html" class="w-100 dropdown-toggle text-ttl fw-bold px-3 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Breast Plastic Surgery</a>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="dropdown w-100">
-                                                <a href="./page.html" class="w-100 dropdown-toggle text-ttl fw-bold p-3 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Body Plastic Surgery</a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="dropdown">
-                                    <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="hairTransplant" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Hair Transplant</a>
-                                    <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="hairTransplant" id="hairTransplantDD">
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Beard Cultivation</a></li>
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Eyebrow Hair Transplantation</a></li>
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Hair Transplant</a></li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="dropdown">
-                                    <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="bariatricSurgery" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Bariatric Surgery</a>
-                                    <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="bariatricSurgery" id="bariatricSurgeryDD">
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Gastric Sleeve</a></li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="dropdown">
-                                    <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="dentalTreatment" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Dental Treatment</a>
-                                    <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="dentalTreatment" id="dentalTreatmentDD">
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Dental Implant</a></li>
-                                        <li><a class="dropdown-item text-ttl fw-bold" href="./page.html">Dental Veneers and Lumineers</a></li>
-                                        <li>
-                                            <a href="./page.html" class="w-100 dropdown-toggle text-ttl fw-bold px-3 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Hollywood Smile </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <a href="./page.html" class="fw-bold text-ttl">Blog</a>
-                            </li>
-                            <li>
-                                <a href="./page.html" class="fw-bold text-ttl">About Us</a>
-                            </li>
-                            <li>
-                                <a href="./page.html" class="fw-bold text-ttl">Contracted Insititutions</a>
-                            </li>
-                            <li>
-                                <a href="./page.html" class="fw-bold text-ttl">Contact Us</a>
-                            </li>
-                            <li>
-                                <span>Lang</span>
-                            </li>
-                        </ul>
+
+            <nav class="navbar navbar-expand-lg d-block d-lg-none">
+                <div class="row justify-content-between align-items-center w-75 m-auto">
+                    <div class="col-3">
+                        <div class="w-100">
+                            <img src="./assets/img/lerra-logo-header.png" alt="lerra-clinic" class="w-100" />
+                        </div>
                     </div>
+                    <div class="col-3">
+                        <div class="text-end">
+                            <button class="bg-transparent border-0" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="fa-solid fa-bars fs-1 text-ttl"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav w-75 m-auto mt-3 ps-3">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Plastic Surgery </a>
+                            <ul class="dropdown-menu bg-transparent border-0">
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Facial Plastic Surgery</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Breast Plastic Surgery</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Body Plastic Surgery</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Hair Transplant </a>
+                            <ul class="dropdown-menu bg-transparent border-0">
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Beard Cultivation</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Eyebrow Hair Transplantation</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Hair Transplant</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Bariatric Surgery </a>
+                            <ul class="dropdown-menu bg-transparent border-0">
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Gastric Sleeve</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Dental Treatment </a>
+                            <ul class="dropdown-menu bg-transparent border-0">
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Dental Implant</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Dental Veneers and Lumineers</a></li>
+                                <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Hollywood Smile</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-ttl fw-bold" href="./archive.php">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-ttl fw-bold" href="./about.php">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-ttl fw-bold" href="./contact.php">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <span>Lang</span>
+                        </li>
+                    </ul>
                 </div>
             </nav>
 
             <!-- desktop nav -->
-
-            <nav class="pw-fxd-nav rounded-pill position-fixed d-flex align-items-center justify-content-center bg-white p-4 shadow d-none bg-white pw-z-100 d-lg-block">
-                <ul class="list-unstyled w-100 p-0 d-flex align-items-center justify-content-between m-0 gap-2">
-                    <li>
-                        <a href="./index.html" class="pw-hdr-logo d-block">
-                            <img src="./assets/img/lerra-logo-header.png" alt="lerra clinic" class="w-100" />
-                        </a>
-                    </li>
-                    <li>
-                        <div class="dropdown">
-                            <a href="./page.html" class="fw-bold text-ttl bg-transparent" id="plasticSurgery" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Plastic Surgery</a>
-                            <ul class="dropdown-menu pw-lg-drp-down" aria-labelledby="plasticSurgery" id="plasticSurgeryDD">
-                                <li>
-                                    <a href="./index.html" class="w-100 pw-nav-lnk-on-hvr px-3 pt-2 fw-bold text-ttl d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Facial Plastic Surgery </a>
-                                </li>
-                                <li>
-                                    <a href="./page.html" class="w-100 pw-nav-lnk-on-hvr px-3 py-2 fw-bold text-ttl d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Breast Plastic Surgery</a>
-                                </li>
-                                <li>
-                                    <a href="./page.html" class="w-100 pw-nav-lnk-on-hvr fw-bold text-ttl px-3 pb-2 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Body Plastic Surgery</a>
-                                </li>
-                            </ul>
+            <div class="pw-fxd-nav rounded-pill position-fixed bg-white shadow d-none pw-z-100 d-lg-block">
+                <div class="container-fluid">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-1">
+                            <a href="./index.html" class="w-100 d-block">
+                                <img src="./assets/img/lerra-logo-header.png" alt="lerra clinic" class="w-100" />
+                            </a>
                         </div>
-                    </li>
-                    <li>
-                        <div class="dropdown">
-                            <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="hairTransplant" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Hair Transplant</a>
-                            <ul class="dropdown-menu pw-lg-drp-down" aria-labelledby="hairTransplant" id="hairTransplantDD">
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Beard Cultivation</a></li>
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Eyebrow Hair Transplantation</a></li>
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Hair Transplant</a></li>
-                            </ul>
+                        <div class="col-9">
+                            <nav class="navbar navbar-expand-lg py-4">
+                                <ul class="navbar-nav m-auto d-flex align-items-center gap-3">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" aria-expanded="false"> Plastic Surgery </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Facial Plastic Surgery</a></li>
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Breast Plastic Surgery</a></li>
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Body Plastic Surgery</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" aria-expanded="false"> Hair Transplant </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Beard Cultivation</a></li>
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Eyebrow Hair Transplantation</a></li>
+                                            <li><a class="dropdown-item fw-bold text-ttl" href="./page.php">Hair Transplant</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" aria-expanded="false"> Bariatric Surgery </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Gastric Sleeve</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link text-ttl fw-bold" href="./page.php" role="button" aria-expanded="false"> Dental Treatment </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Dental Implant</a></li>
+                                            <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Dental Veneers and Lumineers</a></li>
+                                            <li><a class="dropdown-item text-ttl fw-bold" href="./page.php">Hollywood Smile</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-ttl fw-bold" href="./archive.php">Blog</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-ttl fw-bold" href="./about.php">About Us</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-ttl fw-bold" href="./contact.php">Contact Us</a>
+                                    </li>
+                                    <li class="m-auto">
+                                        <span>Lang</span>
+                                    </li>
+                                </ul>
+                            </nav>
                         </div>
-                    </li>
-                    <li>
-                        <div class="dropdown">
-                            <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="bariatricSurgery" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Bariatric Surgery</a>
-                            <ul class="dropdown-menu pw-lg-drp-down" aria-labelledby="bariatricSurgery" id="bariatricSurgeryDD">
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Gastric Sleeve</a></li>
-                            </ul>
+                        <div class="col-2">
+                            <div class="m-auto">
+                                <button class="border-0 rounded-2 bg-main text-white py-2 px-3">Free Consultation</button>
+                            </div>
                         </div>
-                    </li>
-                    <li>
-                        <div class="dropdown">
-                            <a href="./page.html" class="fw-bold text-ttl dropdown-toggle bg-transparent" id="dentalTreatment" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Dental Treatment</a>
-                            <ul class="dropdown-menu pw-lg-drp-down" aria-labelledby="dentalTreatment" id="dentalTreatmentDD">
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Dental Implant</a></li>
-                                <li><a class="dropdown-item fw-bold text-ttl pw-nav-lnk-on-hvr" href="./page.html">Dental Veneers and Lumineers</a></li>
-                                <li>
-                                    <a href="./page.html" class="w-100 dropdown-toggle pw-nav-lnk-on-hvr fw-bold text-ttl px-3 d-flex align-items-center" data-bs-toggle="dropdown" aria-expanded="false">Hollywood Smile </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="./page.html" class="fw-bold text-ttl">Blog</a>
-                    </li>
-                    <li>
-                        <a href="./about.html" class="fw-bold text-ttl">About Us</a>
-                    </li>
-                    <li>
-                        <a href="./page.html" class="fw-bold text-ttl">Contracted Insititutions</a>
-                    </li>
-                    <li>
-                        <a href="./contact.html" class="fw-bold text-ttl">Contact Us</a>
-                    </li>
-                    <li>
-                        <span>Lang</span>
-                    </li>
-                    <li>
-                        <button class="border-0 rounded-2 bg-main text-white py-2 px-3">Free Consultation</button>
-                    </li>
-                </ul>
-            </nav>
+                    </div>
+                </div>
+            </div>
         </header>
+    </body>
+</html>

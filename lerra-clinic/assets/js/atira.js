@@ -1,7 +1,5 @@
 new WOW().init();
 
-const navlinks = document.querySelectorAll(".dropdown");
-
 const netwroks = document.querySelectorAll(".pw-ntwrk");
 
 netwroks.forEach((x) => {
