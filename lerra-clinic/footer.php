@@ -6,8 +6,8 @@
                             <div class="pw-ftr-logo">
                                 <img src="./assets/img/lerra-logo-footer.png" alt="lerra-clinic" class="w-100" />
                             </div>
-                            <p class="pw-ftr-p text-white animate__animated animate__fadeInUp wow">"Lerra Clinic" is a leading therapeutic Tourism company, providing comprehensive services including transportation, mobility, and medical services in collaboration with healthcare providers, ensuring a seamless and comfortable experience for our clients.</p>
-                            <button class="pw-ftr-cntct-btn d-flex justify-content-between align-items-center rounded-pill bg-white text-sub py-2 px-3 border-0 animate__animated animate__fadeInUp wow">
+                            <p class="pw-ftr-p text-white" data-aos="fade-up">"Lerra Clinic" is a leading therapeutic Tourism company, providing comprehensive services including transportation, mobility, and medical services in collaboration with healthcare providers, ensuring a seamless and comfortable experience for our clients.</p>
+                            <button class="pw-ftr-cntct-btn d-flex justify-content-between align-items-center rounded-pill bg-white text-sub py-2 px-3 border-0" data-aos="fade-up" data-aos-offset="0">
                                 <i class="fa-solid fa-phone"></i>
                                 <span>Call our medical team</span>
                             </button>
@@ -15,7 +15,7 @@
                     </div>
                     <div class="col-12 col-md-4 gy-4">
                         <div class="pw-ftr-lnks">
-                            <h3 class="fw-bold text-white fs-5 mb-4 animate__animated animate__fadeInUp wow">Operations</h3>
+                            <h3 class="fw-bold text-white fs-5 mb-4" data-aos="fade-up" data-aos-offset="0">Operations</h3>
                             <ul class="list-unstyled d-flex flex-column gap-3 p-0 text-white">
                                 <li>
                                     <a href="#">Plastic Surgery</a>
@@ -48,10 +48,10 @@
                         <form class="pw-frm bg-white py-5 px-4 rounded">
                             <div class="d-flex flex-column gap-3 p-1">
                                 <div class="d-flex align-items-center gap-1">
-                                    <h5 class="text-sub fw-bolder animate__animated animate__fadeInUp wow" style="animation-delay: 0.2s">Send</h5>
-                                    <h5 class="text-sub fw-bolder animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s">us</h5>
-                                    <h5 class="text-sub fw-bolder animate__animated animate__fadeInUp wow" style="animation-delay: 0.4s">a</h5>
-                                    <h5 class="text-sub fw-bolder animate__animated animate__fadeInUp wow" style="animation-delay: 0.5s">message</h5>
+                                    <h5 class="text-sub fw-bolder" data-aos="fade-up" data-aos-offset="0">Send</h5>
+                                    <h5 class="text-sub fw-bolder" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0">us</h5>
+                                    <h5 class="text-sub fw-bolder" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">a</h5>
+                                    <h5 class="text-sub fw-bolder" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">message</h5>
                                 </div>
                                 <p class="text-sub fw-mdeium">Contact us today using this form and our support team will reach out as soon as possible.</p>
                                 <div class="container p-0">
@@ -105,7 +105,7 @@
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
         <script src="./assets/js/atira.js"></script>
     </body>
 </html>

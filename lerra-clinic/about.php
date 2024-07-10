@@ -7,11 +7,11 @@
                         <div class="col-12">
                             <div class="d-flex flex-column justify-content-center align-items-center position-relative h-100 pw-z-100">
                                 <div class="d-flex align-items-center gap-2">
-                                    <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow">About</h1>
-                                    <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s">Us</h1>
+                                    <h1 class="text-white fw-bold mb-3" data-aos="fade-up" data-aos-delay="100">About</h1>
+                                    <h1 class="text-white fw-bold mb-3" data-aos="fade-up" data-aos-delay="200" style="animation-delay: 0.3s">Us</h1>
                                 </div>
 
-                                <div class="d-flex align-items-center gap-2 fw-bold animate__animated animate__fadeInLeft wow" style="animation-delay: 0.2s">
+                                <div class="d-flex align-items-center gap-2 fw-bold" data-aos="fade-right" data-aos-delay="300">
                                     <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
                                     <i class="fa-solid fa-angle-right text-white opacity-75"></i>
                                     <span class="text-white opacity-75">About Us</span>
@@ -38,7 +38,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-12 col-md-5">
                             <div class="d-flex flex-column gap-1">
-                                <p class="fw-medium animate__animated animate__fadeInUp wow">"lerra clinic" is a licensed, multi-service company specializing in providing transport services, hotel bookings, and medical services.</p>
+                                <p class="fw-medium" data-aos="fade-up" data-aos-offset="10">"lerra clinic" is a licensed, multi-service company specializing in providing transport services, hotel bookings, and medical services.</p>
                                 <p class="fw-medium">Transport Services: We offer high-quality, extremely comfortable transportation services for city travel, airport transfers, and tourist trips. Whether you need individual or group transportation, we have the flexibility to meet your needs.</p>
                                 <p class="fw-medium">Hotel Bookings: We provide hotel booking services for a wide range of local and international hotels to suit all budgets and tastes. We guarantee you the best prices and service.</p>
                                 <p class="fw-medium">Medical Services: We collaborate with certified doctors and leading hospitals to provide optimal medical support to our clients. We offer medical consultations, appointment scheduling, and coordination with doctors and medical facilities.</p>
@@ -47,7 +47,7 @@
                         </div>
                         <div class="col-12 col-md-5">
                             <div class="w-100 pw-trns-3 pw-on-hvr-trns-top mb-4">
-                                <img src="./assets/img/about.png" alt="lerra-clinic" class="w-100" />
+                                <img src="./assets/img/about.png" alt="lerra-clinic" class="w-100" data-aos="zoom-out"/>
                             </div>
                         </div>
                     </div>
