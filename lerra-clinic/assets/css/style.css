@@ -558,6 +558,9 @@ a {
     transition: all 0.4s;
     cursor: pointer;
 }
+.heart-icon{
+cursor: pointer;
+}
 /* Page number */
 .pagination {
     --bs-pagination-border-color: none;
@@ -590,7 +593,7 @@ a {
     transform: scale(1.1);
 }
 .pw-crd-min:hover .pw-crd-pst-img {
-    transform: scale(0.9);
+    transform: scale(1.02);
 }
 .pw-crd-pst:hover {
     transform: translateY(-5px);
@@ -609,7 +612,7 @@ a {
 
 .pw-crd-min:hover .pw-crd-inf {
     display: flex;
-    color: white;
+    z-index: 5555;
 }
 .pw-pst-catg {
     background-color: rgba(0, 0, 0, 0.5);
