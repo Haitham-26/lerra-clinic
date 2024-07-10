@@ -566,8 +566,10 @@ cursor: pointer;
     --bs-pagination-border-color: none;
     color: var(--pw-ttl);
     --bs-pagination-focus-box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    --bs-pagination-bg: none;
     --bs-pagination-focus-bacgroun-color: white;
     --bs-pagination-focus-bg: none;
+    --bs-pagination-focus-color: none;
 }
 
 .pw-prv-pst:hover {

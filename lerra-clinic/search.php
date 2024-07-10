@@ -15,7 +15,7 @@
                         </div>
                         <div class="position-absolute start-0 end-0" style="z-index: -1;bottom:-1px">
                             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 116" preserveAspectRatio="none">
-                                <path fill-opacity="0.2" class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.2s" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
+                                <path fill="#ffff" fill-opacity="0.2" class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.2s" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
 
                                 <path fill="#ffff" class="animate__animated animate__fadeInUp wow" fill-opacity="0.6" d="M0,80 C200,46.6666667 400,30 600,30 C800,30 1000,46.6666667 1200,80 L1200,116 L0,116 L0,80 Z"></path>
 
@@ -89,19 +89,23 @@
                             </div>
                         </div>
                     </div>
-                    <nav aria-label="Page navigation example" class="mt-5">
-                        <ul class="pagination justify-content-center gap-5">
-                            <li class="page-item border"></li>
-                            <li class="page-item border"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item border"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item border"><a class="page-link" href="#">3</a></li>
-                            <li class="page-item border">
-                                <a class="page-link" href="#" aria-label="Next">
-                                    <span aria-hidden="true">&raquo;</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
+        <div class="container mt-5">
+            <div class="row align-items-center">
+                <nav aria-label="Page navigation example ">
+                    <ul class="pagination justify-content-center text-ttl gap-5">
+                        <li class="page-item"></li>
+                        <li class="page-item"><a class="page-link text-ttl" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link text-ttl" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link text-ttl" href="#">3</a></li>
+                        <li class="page-item">
+                            <a class="page-link text-ttl" href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="d-flex flex-column gap-3">

@@ -19,7 +19,7 @@
                         </div>
                         <div class="position-absolute start-0 end-0" style="z-index: -1;bottom:-1px">
                             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 116" preserveAspectRatio="none">
-                                <path class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s" fill-opacity="0.2" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
+                                <path fill="#ffff" class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s" fill-opacity="0.2" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
 
                                 <path fill="#ffff" class="animate__animated animate__fadeInUp wow" fill-opacity="0.6" d="M0,80 C200,46.6666667 400,30 600,30 C800,30 1000,46.6666667 1200,80 L1200,116 L0,116 L0,80 Z"></path>
 
@@ -48,12 +48,9 @@
             <div class="row justify-content-center align-items-center">
                 <!-- Desktop -->
                 <div class="col-md-8 d-none d-md-block">
-                    <div class="pw-blgs-crd  text-ttl d-flex align-items-center justify-content-between mt-2">
+                    <div class="pw-blgs-crd text-ttl d-flex align-items-center justify-content-between mt-2">
                         <div class="d-flex gap-3 align-items-center justify-content-center">
-                          <div>
-                          <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center px-3 p-2" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
-
-                          </div>
+                            <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center px-3 p-2" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
 
                             <a><i class="fa-solid fa-circle-user fs-2"></i></a>
                             <a><span>User Name</span></a>
@@ -250,7 +247,7 @@
                 <!-- Next post -->
                 <div class="d-none d-md-block col-md-3">
                     <div class="col-md-12 col-10 d-flex align-items-center justify-content-center gap-4 rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
-                        <div class="pw-nxt-pst text-ttl d-flex gap-3">
+                        <div class="text-ttl d-flex gap-3">
                             <div>
                                 <img src="./assets/img/next-post.webp" class="rounded-3" />
                             </div>
@@ -310,9 +307,9 @@
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                        <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
+                        <div class="pw-crd-inf p-3 justify-content-between align-items-center">
                             <div>
-                                <a><i class="fa-solid fa-circle-user fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
+                                <a><i class="bi bi-person-circle fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
                             </div>
                             <div>
                                 <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -336,9 +333,9 @@
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                        <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
+                        <div class="pw-crd-inf p-3 justify-content-between align-items-center">
                             <div>
-                                <a><i class="fa-solid fa-circle-user fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
+                                <a><i class="bi bi-person-circle fs-4"></i></a>
                             </div>
                             <div>
                                 <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -362,9 +359,9 @@
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                        <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
+                        <div class="pw-crd-inf p-3 justify-content-between align-items-center">
                             <div>
-                                <a><i class="fa-solid fa-circle-user fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
+                                <a><i class="bi bi-person-circle fs-4"></i></a>
                             </div>
                             <div>
                                 <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -388,9 +385,9 @@
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                        <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
+                        <div class="pw-crd-inf p-3 justify-content-between align-items-center">
                             <div>
-                                <a><i class="fa-solid fa-circle-user fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
+                                <a><i class="bi bi-person-circle fs-4"></i></a>
                             </div>
                             <div>
                                 <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
