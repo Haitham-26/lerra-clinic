@@ -1,6 +1,6 @@
 <?php require_once("./header.php")?>
 
-<main>
+<main class="bg-light">
     <!-- Hero  -->
     <section class="pw-srch-hero overflow-hidden">
         <div class="container-fluid p-0 h-100">
@@ -13,7 +13,7 @@
                             <h1 class="text-white fw-bold animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s">for:</h1>
                             <h1 class="text-white fw-bold animate__animated animate__fadeInUp wow" style="animation-delay: 0.4s">x</h1>
                         </div>
-                        <div class="position-absolute bottom-0 start-0 end-0" style="z-index: -1">
+                        <div class="position-absolute start-0 end-0" style="z-index: -1;bottom:-1px">
                             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 116" preserveAspectRatio="none">
                                 <path fill-opacity="0.2" class="animate__animated animate__fadeInUp wow" style="animation-delay: 0.2s" d="M0,50 C200,16.6666667 400,7.10542736e-15 600,7.10542736e-15 C800,7.10542736e-15 1000,16.6666667 1200,50 L1200,116 L0,116 L0,50 Z"></path>
 
