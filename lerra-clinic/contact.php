@@ -9,10 +9,10 @@ require_once("./header.php");
                 <div class="col-12">
                     <div class="d-flex flex-column justify-content-center align-items-center position-relative h-100 pw-z-100">
                         <div class="d-flex align-items-center gap-2">
-                            <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow">Conatct</h1>
-                            <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s">Us</h1>
+                            <h1 class="text-white fw-bold mb-3" data-aos="fade-up" data-aos-delay="100">Conatct</h1>
+                            <h1 class="text-white fw-bold mb-3" data-aos="fade-up" data-aos-delay="200" style="animation-delay: 0.3s">Us</h1>
                         </div>
-                        <div class="d-flex align-items-center gap-2 fw-bold animate__animated animate__fadeInLeft wow" style="animation-delay: 0.2s">
+                        <div class="d-flex align-items-center gap-2 fw-bold" data-aos="fade-right" data-aos-delay="300">
                             <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
                             <i class="fa-solid fa-angle-right text-white opacity-75"></i>
                             <span class="text-white opacity-75">Conatct Us</span>
@@ -67,7 +67,7 @@ require_once("./header.php");
             </div>
             <div class="row justify-content-center justify-content-md-start">
                 <div class="col-12 col-md-6 col-lg-4">
-                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded animate__animated animate__fadeInUp wow">
+                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded" data-aos="fade-up" data-aos-offset="200">
                         <div class="d-flex flex-column gap-3 p-1">
                             <h4 class="text-sub fw-bolder">Send us a message</h4>
                             <p class="text-sub fw-mdeium">GET FREE MEDICAL CONSULTATİON</p>

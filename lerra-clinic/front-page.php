@@ -17,9 +17,9 @@
             <div class="row">
                 <div class="col-12 col-lg-7">
                     <div class="h-100 d-flex flex-column justify-content-center gap-3 mt-lg-5">
-                        <h1 class="text-white fw-bold mt-lg-5 wow animate__animated animate__fadeInUp">Lerra Clinic, for the Love of Change!</h1>
-                        <p class="text-white opacity-50 fs-4 animate__animated animate__fadeInUp wow">“Our priority is your constant satisfaction!”</p>
-                        <a href="#" class="pw-hero-c2a-btn d-flex align-items-center justify-content-between bg-main text-white rounded-2 py-3 px-4">
+                        <h1 class="text-white fw-bold mt-lg-5" data-aos="fade-up">Lerra Clinic, for the Love of Change!</h1>
+                        <p class="text-white fs-4" data-aos="fade-up" data-aos-delay="800">“Our priority is your constant satisfaction!”</p>
+                        <a href="#" class="pw-hero-c2a-btn d-flex align-items-center justify-content-between bg-main text-white rounded-2 py-3 px-4" data-aos="fade-right" data-aos-delay="800">
                             <i class="fa-solid fa-user-group"></i>
                             <span class="fw-bold">Get a Free Consultation</span>
                         </a>
@@ -31,33 +31,33 @@
                             <div class="col-12 col-lg-4">
                                 <div class="d-flex gap-3 mt-5">
                                     <div>
-                                        <i class="fa-solid fa-earth-americas bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon fs-3 animate__animated animate__fadeInUp wow"></i>
+                                        <i class="fa-solid fa-earth-americas bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon fs-3" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"></i>
                                     </div>
                                     <div>
-                                        <h4 class="text-white fw-bold animate__animated animate__fadeInUp wow">World Class Treatment</h4>
-                                        <p class="text-white fs-5 opacity-50 animate__animated animate__fadeInUp wow">Implementation of the perfect treatment methods with the most advanced technology.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-lg-4">
-                                <div class="d-flex gap-3 mt-5">
-                                    <div>
-                                        <i class="fa-solid fa-clipboard-check bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon fs-3 animate__animated animate__fadeInUp wow"></i>
-                                    </div>
-                                    <div>
-                                        <h4 class="text-white fw-bold animate__animated animate__fadeInUp wow">Providing Uninterrupted Services</h4>
-                                        <p class="text-white fs-5 opacity-50 animate__animated animate__fadeInUp wow">Special attention and support that you will never be alone before and after the treatment.</p>
+                                        <h4 class="text-white fw-bold" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">World Class Treatment</h4>
+                                        <p class="text-white fs-5 opacity-50" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">Implementation of the perfect treatment methods with the most advanced technology.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <div class="d-flex gap-3 mt-5">
                                     <div>
-                                        <i class="fa-solid fa-user fs-3 bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon animate__animated animate__fadeInUp wow"></i>
+                                        <i class="fa-solid fa-clipboard-check bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon fs-3" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"></i>
                                     </div>
                                     <div>
-                                        <h4 class="text-white fw-bold animate__animated animate__fadeInUp wow">Medical Operations</h4>
-                                        <p class="text-white fs-5 opacity-50 animate__animated animate__fadeInUp wow">Specialist doctors consisting of the leading, successful names in the field.</p>
+                                        <h4 class="text-white fw-bold" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">Providing Uninterrupted Services</h4>
+                                        <p class="text-white fs-5 opacity-50" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">Special attention and support that you will never be alone before and after the treatment.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-4">
+                                <div class="d-flex gap-3 mt-5">
+                                    <div>
+                                        <i class="fa-solid fa-user fs-3 bg-white text-main rounded-circle p-3 d-flex justify-content-center align0 pw-hero-icon" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"></i>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-white fw-bold" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">Medical Operations</h4>
+                                        <p class="text-white fs-5 opacity-50" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">Specialist doctors consisting of the leading, successful names in the field.</p>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                     <h2 class="text-center fw-semibold fs-5 my-4">Find Us On World Most Trusted Networks</h2>
                 </div>
                 <div class="col-12">
-                    <div class="pw-ntwrks rounded-2 py-4 px-3">
+                    <div class="pw-ntwrks rounded-2 py-4 px-3" data-aos="zoom-out">
                         <div class="container">
                             <div class="row justify-content-between">
                                 <div class="col-12 col-lg-2">
@@ -122,12 +122,12 @@
             <div class="row">
                 <div class="col-12">
                     <div class="text-center mb-5">
-                        <h2 class="fs-2 fw-bold text-ttl mb-4 animate__animated animate__slideInUp wow">World Class Treatment</h2>
+                        <h2 class="fs-2 fw-bold text-ttl mb-4" data-aos="fade-up" data-aos-offset="0">World Class Treatment</h2>
                         <p>Check out our world-class operations!</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
-                    <div class="pw-clss-trt-crd m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1">
+                    <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
                             <img src="./assets/img/card-1.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
@@ -146,7 +146,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
-                    <div class="pw-clss-trt-crd m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1">
+                    <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
                             <img src="./assets/img/card-2.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
@@ -165,7 +165,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
-                    <div class="pw-clss-trt-crd m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1">
+                    <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
                             <img src="./assets/img/card-3.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
@@ -184,7 +184,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
-                    <div class="pw-clss-trt-crd m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1">
+                    <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
                             <img src="./assets/img/card-4.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
@@ -216,9 +216,9 @@
                             <img src="./assets/img/treatment-proccess-1.png" alt="treatment-proccess" class="w-100" />
                         </div>
                         <div class="d-flex flex-column gap-2">
-                            <h2 class="text-sub animate__animated animate__fadeInUp wow">How Does the Treatment Process Work?</h2>
-                            <p class="fs-5 animate__animated animate__fadeInUp wow">Here are the details of your treatment process in Turkey, and the reasons why you should choose us.</p>
-                            <a href="#" class="pw-mdcl-trsm-btn bg-main d-flex align-items-center justify-content-between gap-1 rounded-pill text-white p-2 animate__animated animate__fadeInUp wow">
+                            <h2 class="text-sub" data-aos="fade-up" data-aos-offset="0">How Does the Treatment Process Work?</h2>
+                            <p class="fs-5" data-aos="fade-up" data-aos-offset="0">Here are the details of your treatment process in Turkey, and the reasons why you should choose us.</p>
+                            <a href="#" class="pw-mdcl-trsm-btn bg-main d-flex align-items-center justify-content-between gap-1 rounded-pill text-white p-2" data-aos="fade-up" data-aos-offset="0">
                                 <span>Medical Tourism</span>
                                 <i class="fa-solid fa-plane-departure"></i>
                             </a>
@@ -232,23 +232,23 @@
                     <div class="d-flex flex-column gap-4 mx-1">
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top" style="margin-top: 6rem">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">1.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Contact Our Doctors</h3>
-                                <p class="animate__animated animate__fadeInUp wow">After you provide us with the necessary information, you will be able to consult our proffossinal agreed doctor. We discuss your goals and concerns. From there, we'll work together to develop a personalized treatment plan that best suits you.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">1.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Contact Our Doctors</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">After you provide us with the necessary information, you will be able to consult our proffossinal agreed doctor. We discuss your goals and concerns. From there, we'll work together to develop a personalized treatment plan that best suits you.</p>
                             </div>
                         </div>
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">3.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Welcome to Turkey</h3>
-                                <p class="animate__animated animate__fadeInUp wow">Arrive in Turkey and start your unforgettable journey with our experts.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">3.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Welcome to Turkey</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">Arrive in Turkey and start your unforgettable journey with our experts.</p>
                             </div>
                         </div>
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">5.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Have fun in Istanbul</h3>
-                                <p class="animate__animated animate__fadeInUp wow">Ater Completing your treatment, all you have to do is enjoying your time in Istanbul. Have an exceptional experience by visiting some of the best historical and authentic places in this magical city.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">5.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Have fun in Istanbul</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">After Completing your treatment, all you have to do is enjoying your time in Istanbul. Have an exceptional experience by visiting some of the best historical and authentic places in this magical city.</p>
                             </div>
                         </div>
                     </div>
@@ -257,23 +257,23 @@
                     <div class="d-flex flex-column gap-4 mx-1">
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">2.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Let us plan your travel</h3>
-                                <p class="animate__animated animate__fadeInUp wow">When you decide to travel to Turkey, We will ensure that we are with you every step of the way from the time you leave your country, during your treatment in our facility and until the day you are fit to fly back home.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">2.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Let us plan your travel</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">When you decide to travel to Turkey, We will ensure that we are with you every step of the way from the time you leave your country, during your treatment in our facility and until the day you are fit to fly back home.</p>
                             </div>
                         </div>
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">4.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Treatment Process</h3>
-                                <p class="animate__animated animate__fadeInUp wow">We specialize in unique procedures developed by our expert doctors, provided in a warm and friendly environment. The treatment that is decided by you and our doctors will be applied with the best possible care.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">4.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Treatment Process</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">We specialize in unique procedures developed by our expert doctors, provided in a warm and friendly environment. The treatment that is decided by you and our doctors will be applied with the best possible care.</p>
                             </div>
                         </div>
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
-                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1 animate__animated animate__fadeInUp wow">6.</div>
-                                <h3 class="text-sub fs-5 fw-bold mt-2 animate__animated animate__fadeInUp wow">Fly back home</h3>
-                                <p class="animate__animated animate__fadeInUp wow">We are completely dedicated to provide safety and security to each of our patients. Having travelled from all over the world, our clients trust and put their full faith in our operations to satisfy their medical needs.</p>
+                                <div class="pw-trt-prcs-stp rounded-circle bg-light-main text-main d-flex align-items-center justify-content-center fs-1" data-aos="fade-up" data-aos-offset="0">6.</div>
+                                <h3 class="text-sub fs-5 fw-bold mt-2" data-aos="fade-up" data-aos-offset="0">Fly back home</h3>
+                                <p data-aos="fade-up" data-aos-offset="0">We are completely dedicated to provide safety and security to each of our patients. Having travelled from all over the world, our clients trust and put their full faith in our operations to satisfy their medical needs.</p>
                             </div>
                         </div>
                     </div>
@@ -349,8 +349,8 @@
                 <div class="col-1 d-none d-md-block"></div>
                 <div class="col-12 col-md-6">
                     <div class="text-center text-md-start">
-                        <h2 class="fw-bold text-sub animate__animated animate__fadeInUp wow">Reviews of Our Patients</h2>
-                        <p class="fs-5 animate__animated animate__fadeInUp wow">The address of satisfaction in the health sector is Lerra Clinic</p>
+                        <h2 class="fw-bold text-sub" data-aos="fade-up" data-aos-offset="0">Reviews of Our Patients</h2>
+                        <p class="fs-5" data-aos="fade-up" data-aos-offset="0">The address of satisfaction in the health sector is Lerra Clinic</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-5">
@@ -362,16 +362,16 @@
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
                                         </div>
-                                        <p class="text-center fw-semibold animate__animated animate__fadeInUp wow">"A place where the whole team, including the specalist doctor team, gives special attention and exerts effort to be satisfied. I suggested and Lerra Clinic to my whole evnvironment and will keep doing it."</p>
+                                        <p class="text-center fw-semibold" data-aos="fade-up" data-aos-offset="0">"A place where the whole team, including the specalist doctor team, gives special attention and exerts effort to be satisfied. I suggested and Lerra Clinic to my whole evnvironment and will keep doing it."</p>
                                         <div class="d-flex flex-column justify-content-center align-items-center gap-2">
-                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2 animate__animated animate__fadeInUp wow">
+                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2" data-aos="fade-up" data-aos-offset="0">
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                             </div>
-                                            <h3 class="fw-bold text-sub fs-5 animate__animated animate__fadeInUp wow">Fatma Salih</h3>
+                                            <h3 class="fw-bold text-sub fs-5" data-aos="fade-up" data-aos-offset="0">Fatma Salih</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -380,16 +380,16 @@
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
                                         </div>
-                                        <p class="text-center fw-semibold animate__animated animate__fadeInUp wow">“For the first time, I decided to have an operation for my teeth and I was very excited. It was the clinic that made me try Zirconium and I have never regretted it since I had done it. Glad to have you, Lerra, you are a light to my wishes.”</p>
+                                        <p class="text-center fw-semibold" data-aos="fade-up" data-aos-offset="0">“For the first time, I decided to have an operation for my teeth and I was very excited. It was the clinic that made me try Zirconium and I have never regretted it since I had done it. Glad to have you, Lerra, you are a light to my wishes.”</p>
                                         <div class="d-flex flex-column justify-content-center align-items-center gap-2">
-                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2 animate__animated animate__fadeInUp wow">
+                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2" data-aos="fade-up" data-aos-offset="0">
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                             </div>
-                                            <h3 class="fw-bold text-sub fs-5 animate__animated animate__fadeInUp wow">Edanur Teke</h3>
+                                            <h3 class="fw-bold text-sub fs-5" data-aos="fade-up" data-aos-offset="0">Edanur Teke</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -398,16 +398,16 @@
                                         <div class="pw-scl-prf-ggl-icn">
                                             <img src="./assets/img/google-icon.png" alt="google" class="w-100" />
                                         </div>
-                                        <p class="text-center fw-semibold animate__animated animate__fadeInUp wow">“If you haven't stopped by Lerra before, don't complain about baldness. Thanks to everyone in Lerra for providing a natural process for my hair to regain my confidence.”</p>
+                                        <p class="text-center fw-semibold" data-aos="fade-up" data-aos-offset="0">“If you haven't stopped by Lerra before, don't complain about baldness. Thanks to everyone in Lerra for providing a natural process for my hair to regain my confidence.”</p>
                                         <div class="d-flex flex-column justify-content-center align-items-center gap-2">
-                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2 animate__animated animate__fadeInUp wow">
+                                            <div class="pw-strs-wrp d-flex align-items-center justify-content-center gap-2 p-2 rounded-2" data-aos="fade-up" data-aos-offset="0">
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                                 <i class="fa-solid fa-star text-warning"></i>
                                             </div>
-                                            <h3 class="fw-bold text-sub fs-5 animate__animated animate__fadeInUp wow">Fatma Salih</h3>
+                                            <h3 class="fw-bold text-sub fs-5" data-aos="fade-up" data-aos-offset="0">Fatma Salih</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -426,7 +426,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="d-flex flex-column align-items-center justify-content-center gap-4">
-                        <h2 class="text-sub text-center fw-bold animate__animated animate__fadeInUp wow">Contracted Institutions</h2>
+                        <h2 class="text-sub text-center fw-bold" data-aos="fade-up" data-aos-offset="0">Contracted Institutions</h2>
                         <p class="text-ttl text-center">As Lerra Clinic, our only priority is to work with institutions that will provide good and quality service to our foreign guests. Our only success criterion is to try to understand the demands well and choose the appropriate method and leave our country satisfied.</p>
                         <p class="text-ttl text-center">For this reason, we continue to raise the value of our country in tourism by working with Turkey’s leading organizations in their field.</p>
                         <div class="container">
@@ -468,7 +468,7 @@
         <div class="container">
             <div class="row justify-content-center justify-content-md-start">
                 <div class="col-12 col-md-6 col-lg-4">
-                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded animate__animated animate__fadeInUp wow">
+                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded" data-aos="fade-up" data-aos-offset="200">
                         <div class="d-flex flex-column gap-3 p-1">
                             <h4 class="text-sub fw-bolder">Send us a message</h4>
                             <p class="text-sub fw-mdeium">GET FREE MEDICAL CONSULTATİON</p>

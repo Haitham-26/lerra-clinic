@@ -1,5 +1,7 @@
 new WOW().init();
 
+AOS.init();
+
 const netwroks = document.querySelectorAll(".pw-ntwrk");
 
 netwroks.forEach((x) => {
