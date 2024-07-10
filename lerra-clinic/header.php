@@ -28,8 +28,7 @@
                     </div>
                 </div>
             </section>
-
-            <nav class="navbar navbar-expand-lg d-block d-lg-none">
+            <nav class="navbar navbar-expand-lg d-block d-lg-none py-4">
                 <div class="row justify-content-between align-items-center w-75 m-auto">
                     <div class="col-3">
                         <div class="w-100">
