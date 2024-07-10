@@ -18,7 +18,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="h-100 d-flex flex-column justify-content-center gap-3 mt-lg-5">
                         <h1 class="text-white fw-bold mt-lg-5" data-aos="fade-up">Lerra Clinic, for the Love of Change!</h1>
-                        <p class="text-white fs-4" data-aos="fade-up" data-aos-delay="800">“Our priority is your constant satisfaction!”</p>
+                        <p class="text-white fs-4 pw-hero-p wow">“Our priority is your constant satisfaction!”</p>
                         <a href="#" class="pw-hero-c2a-btn d-flex align-items-center justify-content-between bg-main text-white rounded-2 py-3 px-4" data-aos="fade-right" data-aos-delay="800">
                             <i class="fa-solid fa-user-group"></i>
                             <span class="fw-bold">Get a Free Consultation</span>
