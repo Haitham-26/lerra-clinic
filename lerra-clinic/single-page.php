@@ -22,7 +22,7 @@
                 <span>work</span>
               </h1>
               <span
-                class="animate_animated animatebounce animate_slideInLeft fw-bold d-flex align-items-center justify-content-center gap-2"
+                class="animate__animated  animate__slideInLeft fw-bold d-flex align-items-center justify-content-center gap-2"
                 ><a href="./index.html">Home</a
                 ><i class="fa-solid fa-angle-right"></i><span>Genel</span
                 ><i class="fa-solid fa-angle-right"></i>
@@ -83,7 +83,7 @@
         <div class="col-md-8">
           <img
             class="w-100 h-50 rounded-3 justify-content-center"
-            src="./assets/img/blog-card-1.webp"
+            src="./assets/img/search-page-recent-posts-1.jpg"
             style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"
           />
         </div>
@@ -97,7 +97,7 @@
         <!-- Desktop -->
         <div class="col-md-8 d-none d-md-block">
           <div
-            class="pw-blgs-crd d-flex align-items-center justify-content-between mt-2"
+            class="pw-blgs-crd text-ttl d-flex align-items-center justify-content-between mt-2"
           >
             <div class="d-flex gap-3 align-items-center justify-content-center">
               <a
@@ -107,7 +107,7 @@
                 ><span>0</span></a
               >
 
-              <a><i class="bi bi-person-circle fs-4"></i></a>
+              <a><i class="fa-solid fa-circle-user fs-2"></i></a>
               <a><span>User Name</span></a>
             </div>
             <div class="d-flex gap-2">
@@ -120,7 +120,7 @@
           </div>
         </div>
         <!-- Phone -->
-        <div class="d-md-none pw-blgs-crd">
+        <div class="d-md-none pw-blgs-crd text-ttl">
           <div class="d-flex flex-column">
             <div class="mt-3">
               <a
@@ -153,8 +153,8 @@
   <section class="mt-5">
     <div class="container">
       <div class="row align-items-center justify-content-center">
-        <div class="pw-txt-pst col-md-10">
-          <h2>How Does Chin Implant Work</h2>
+        <div class=" text-ttl col-md-10">
+          <h2 class="text-main">How Does Chin Implant Work</h2>
           <p>
             A chin job, or mentoplasty, makes your chin look better by making it
             stick out more and shaping it. They put a hard, safe-to-use item
@@ -180,7 +180,7 @@
             your chin and jaw are swollen, have some color changes, and hurt for
             a bit while you heal.
           </p>
-          <h2>Why Consider Getting A Chin Implant?</h2>
+          <h2 class="text-main">Why Consider Getting A Chin Implant?</h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md-5">
               <p>One may desire a chin implant for the following reasons:</p>
@@ -306,7 +306,7 @@
           </div>
         </div>
         <div
-          class="pw-socl-pst col-md-8 col-12 gap-3 mt-5 d-flex justify-content-center align-items-center"
+          class="text-ttl col-md-8 col-12 gap-3 mt-5 d-flex justify-content-center align-items-center"
         >
           <a>
             <i class="fa-brands fa-facebook-f fs-3"></i>
@@ -335,10 +335,10 @@
             <div>
               <i class="fa-solid fa-angle-left"></i>
             </div>
-            <div class="pw-prv-pst d-flex gap-3">
+            <div class="pw-prv-pst text-ttl d-flex gap-3">
               <div class="d-flex flex-column justify-content-center">
                 <span>Previous post</span>
-                <h5>Otoplasty in Turkey</h5>
+                <h5 class="text-sub">Otoplasty in Turkey</h5>
               </div>
               <div>
                 <img src="./assets/img/prev-post.webp" class="rounded-3" />
@@ -352,13 +352,13 @@
             class="col-md-12 col-10 d-flex align-items-center justify-content-center gap-4 rounded-3 p-1"
             style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"
           >
-            <div class="pw-nxt-pst d-flex gap-3">
+            <div class=" text-ttl d-flex gap-3">
               <div>
                 <img src="./assets/img/next-post.webp" class="rounded-3" />
               </div>
               <div class="d-flex flex-column justify-content-center">
                 <span class="text-end">Next post</span>
-                <h5>Otoplasty in Turkey</h5>
+                <h5 class="text-sub">Otoplasty in Turkey</h5>
               </div>
             </div>
             <div>
@@ -369,7 +369,7 @@
         <!-- Phone -->
         <div class="d-md-none d-sm-block p-3">
           <div
-            class="pw-prv-pst d-flex align-items-center justify-content-around rounded-3 p-1"
+            class=" text-ttl d-flex align-items-center justify-content-around rounded-3 p-1"
             style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"
           >
             <div>
@@ -377,7 +377,7 @@
             </div>
             <div class="d-flex flex-column align-items-center">
               <span>Previous post</span>
-              <h5>Otoplasty in Turkey</h5>
+              <h5 class="text-sub">Otoplasty in Turkey</h5>
             </div>
             <div>
               <img src="./assets/img/prev-post.webp" class="rounded-3" />
@@ -387,7 +387,7 @@
         <!-- Next post phone -->
         <div class="d-md-none d-sm-block p-3">
           <div
-            class="pw-nxt-pst d-flex align-items-center justify-content-around rounded-3 p-1"
+            class=" text-ttl d-flex align-items-center justify-content-around rounded-3 p-1"
             style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)"
           >
             <div>
@@ -396,7 +396,7 @@
 
             <div class="d-flex flex-column align-items-center">
               <span>Next post</span>
-              <h5>Otoplasty in Turkey</h5>
+              <h5 class="text-sub">Otoplasty in Turkey</h5>
             </div>
             <div>
               <i class="fa-solid fa-angle-right"></i>
@@ -407,11 +407,11 @@
     </div>
   </section>
   <!-- Cards -->
-  <section class="mt-5 p-md-5 overflow-hidden">
+  <section class="mt-5 p-md-5 overflow-hidden ">
     <div class="container">
       <div class="row align-items-center gap-5 gap-md-0">
         <h2 class="text-center mb-5">Related Posts</h2>
-        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2">
+        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2 animate__animated animate__fadeInUp wow">
           <div
             class="pw-crd-min m-auto position-relative rounded-3 overflow-hidden"
             style="z-index: 1"
@@ -460,14 +460,14 @@
                 <a class="pw-pst-catg px-2" href="#">Genel</a>
               </li>
               <h2 class="text-white">Facial Plastic Surgery</h2>
-              <a style="color: var(--pw-hvr)"
+              <a class="text-hvr"
                 ><i class="fa-regular fa-clock"></i> 28 May 2024</a
               >
             </div>
           </div>
         </div>
 
-        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2">
+        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2 animate__animated animate__fadeInUp wow">
           <div
             class="pw-crd-min m-auto position-relative rounded-3 overflow-hidden"
             style="z-index: 1"
@@ -511,14 +511,14 @@
                 <a class="pw-pst-catg px-2" href="#">Genel</a>
               </li>
               <h2 class="text-white">Oral and Dental Diseases</h2>
-              <a style="color: var(--pw-hvr)"
+              <a class="text-hvr"
                 ><i class="fa-regular fa-clock"></i> 28 May 2024</a
               >
             </div>
           </div>
         </div>
 
-        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2">
+        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2 animate__animated animate__fadeInUp wow">
           <div
             class="pw-crd-min m-auto position-relative rounded-3 overflow-hidden"
             style="z-index: 1"
@@ -562,14 +562,14 @@
                 <a class="pw-pst-catg px-2" href="#">Genel</a>
               </li>
               <h2 class="text-white">Hair Transplant</h2>
-              <a style="color: var(--pw-hvr)"
+              <a class="text-hvr"
                 ><i class="fa-regular fa-clock"></i> 28 May 2024</a
               >
             </div>
           </div>
         </div>
 
-        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2">
+        <div class="pw-crd-pst col-12 col-md-6 col-lg-3 gy-2 animate__animated animate__fadeInUp wow">
           <div
             class="pw-crd-min m-auto position-relative rounded-3 overflow-hidden"
             style="z-index: 1"
@@ -613,7 +613,7 @@
                 <a class="pw-pst-catg px-2" href="#">Genel</a>
               </li>
               <h2 class="text-white">Plastic Surgery</h2>
-              <a style="color: var(--pw-hvr)"
+              <a class="text-hvr"
                 ><i class="fa-regular fa-clock"></i> 28 May 2024</a
               >
             </div>
