@@ -8,7 +8,14 @@
                 <div class="col-12">
                     <div class="d-flex flex-column justify-content-center align-items-center position-relative h-100 pw-z-100">
                         <div class="d-flex align-items-center gap-2">
-                            <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow">How does a chin implant work?</h1>
+                            <h1 class="pw-txt-anmt text-white fw-bold mb-3 ">
+                            <span>How</span>    
+                            <span>does</span>    
+                            <span>a</span>    
+                            <span>chin</span>    
+                            <span>implant</span>    
+                            <span>work?</span>    
+                            </h1>
                         </div>
                         <div class="d-flex align-items-center gap-2 fw-bold animate__animated animate__fadeInLeft wow" style="animation-delay: 0.2s">
                             <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
