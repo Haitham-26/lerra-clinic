@@ -102,8 +102,25 @@ a {
 .pw-hdr {
     z-index: 555555555555555555555;
 }
-a.dropdown-item.dropdown-toggle::after {
+
+.pw-fxd-nav .nav-item .dropdown-menu {
     display: none;
+    opacity: 0;
+    transition: all 0.5s;
+}
+.pw-fxd-nav .nav-item:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+}
+.nav-item.dropdown .nav-link::after {
+    content: "\f078";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-left: 5px;
+}
+.dropdown-item:focus {
+    background-color: #c3c3c336;
+    color: #000;
 }
 .pw-fxd-nav {
     top: 1rem;
@@ -115,9 +132,6 @@ a.dropdown-item.dropdown-toggle::after {
 }
 .pw-hdr-logo {
     max-width: 7rem;
-}
-.pw-lg-drp-down {
-    transform: translateY(3.7rem) !important;
 }
 .pw-nav-lnk-on-hvr {
     transition: all 0.4s;
