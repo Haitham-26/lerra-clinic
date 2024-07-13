@@ -1,6 +1,5 @@
 <main>
     <!-- Hero Section -->
-
     <section class="pw-hero-sctn position-relative overflow-hidden pt-5" style="z-index: 1">
         <!-- Desktop BG -->
         <div class="d-none d-lg-block position-absolute top-0 start-0 end-0 bottom-0 w-100 h-100" style="z-index: -1">
@@ -12,7 +11,6 @@
         </div>
         <!-- Phone - Tablet Overlay -->
         <div class="pw-hero-overlay d-lg-none position-absolute top-0 start-0 end-0 bottom-0 w-100 h-100"></div>
-
         <div class="container pw-hero-cntnt">
             <div class="row">
                 <div class="col-12 col-lg-7">
@@ -115,7 +113,6 @@
             </div>
         </div>
     </section>
-
     <!-- Class Treatment Section -->
     <section class="my-5 pt-5">
         <div class="container-fluid">
@@ -205,11 +202,10 @@
             </div>
         </div>
     </section>
-
     <!-- Treatment Proccess Section -->
     <section class="my-5">
         <div class="container-fluid container-lg">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-12 col-md-4">
                     <div class="d-flex flex-column mt-3 gap-4 mx-1">
                         <div class="pw-trt-prcs-img-1 w-100">
@@ -281,7 +277,6 @@
             </div>
         </div>
     </section>
-
     <!-- Istanbul Photo Section -->
     <section class="pw-ist-img-sctn overflow-hidden d-none d-lg-block my-5">
         <div class="container-fluid p-0">
@@ -297,7 +292,6 @@
             </div>
         </div>
     </section>
-
     <!-- Advantages Section -->
     <section class="my-5 py-5">
         <div class="container">
@@ -341,7 +335,6 @@
             </div>
         </div>
     </section>
-
     <!-- Social Proof -->
     <section class="my-5 overflow-hidden">
         <div class="container-fluid p-0">
@@ -419,7 +412,6 @@
             </div>
         </div>
     </section>
-
     <!-- Contracted Institutions Section -->
     <section>
         <div class="container">
@@ -462,7 +454,6 @@
             </div>
         </div>
     </section>
-
     <!-- Contact Form Section -->
     <section class="pw-cntct-us-bg my-5 p-md-5 p-0">
         <div class="container">
