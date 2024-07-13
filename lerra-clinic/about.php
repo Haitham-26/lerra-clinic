@@ -47,7 +47,7 @@
                         </div>
                         <div class="col-12 col-md-5">
                             <div class="w-100 pw-trns-3 pw-on-hvr-trns-top mb-4">
-                                <img src="./assets/img/about.png" alt="lerra-clinic" class="w-100" data-aos="zoom-out"/>
+                                <img src="./assets/img/about.png" alt="lerra-clinic" class="w-100" data-aos="fade-up"/>
                             </div>
                         </div>
                     </div>

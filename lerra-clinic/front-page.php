@@ -68,14 +68,14 @@
         </div>
     </section>
     <!-- Networks Section -->
-    <section class="my-5">
+    <section class="my-5 py-5">
         <div class="container-fluid container-md">
             <div class="row justify-content-center">
                 <div class="col-12">
                     <h2 class="text-center fw-semibold fs-5 my-4">Find Us On World Most Trusted Networks</h2>
                 </div>
                 <div class="col-12">
-                    <div class="pw-ntwrks rounded-2 py-4 px-3" data-aos="zoom-out">
+                    <div class="pw-ntwrks rounded-2 py-4 px-3" data-aos="fade-up">
                         <div class="container">
                             <div class="row justify-content-between">
                                 <div class="col-12 col-lg-2">
@@ -117,7 +117,7 @@
     </section>
 
     <!-- Class Treatment Section -->
-    <section class="my-5">
+    <section class="my-5 pt-5">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
@@ -432,25 +432,25 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 col-md-4 gy-3">
-                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3">
-                                        <a href="#" class="pw-hsptl-img d-block rounded-3 overflow-hidden">
-                                            <img src="./assets/img/istanbul-tema-hospital.jpg" alt="istanbul-tema-hospital" class="w-100" />
+                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
+                                        <a href="#" class="pw-hsptl-img d-block  h-100">
+                                            <img src="./assets/img/istanbul-tema-hospital.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4 gy-3">
-                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3">
-                                        <a href="#" class="pw-hsptl-img d-block rounded-3 overflow-hidden">
-                                            <img src="./assets/img/dental.jpg" alt="istanbul-tema-hospital" class="w-100" />
+                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
+                                        <a href="#" class="pw-hsptl-img d-block  h-100">
+                                            <img src="./assets/img/dental.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4 gy-3">
-                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3">
-                                        <a href="#" class="pw-hsptl-img d-block rounded-3 overflow-hidden">
-                                            <img src="./assets/img/ikiteli-bahat-hospital.jpg" alt="istanbul-tema-hospital" class="w-100" />
+                                    <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
+                                        <a href="#" class="pw-hsptl-img d-block  h-100">
+                                            <img src="./assets/img/ikiteli-bahat-hospital.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>

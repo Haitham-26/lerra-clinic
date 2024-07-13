@@ -107,9 +107,23 @@ a {
 
 /* Header */
 .pw-hdr {
-    z-index: 555555555555555555555;
+    z-index: 200;
 }
-
+#searchModal .modal-dialog {
+    z-index: 201;
+}
+.pw-mdl-srch-btn {
+    border: 1px var(--pw-main) solid;
+    transition: all 0.3s;
+    background-color: #fff;
+}
+.pw-mdl-srch-btn:hover {
+    background-color: var(--pw-main);
+    color: #fff;
+}
+#searchModal input.form-control:focus {
+    box-shadow: none !important;
+}
 .pw-fxd-nav .nav-item .dropdown-menu {
     display: none;
     opacity: 0;
@@ -119,7 +133,7 @@ a {
     display: block;
     opacity: 1;
 }
-.nav-item.dropdown .nav-link::after {
+.pw-fxd-nav .nav-item.dropdown .nav-link::after {
     content: "\f078";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -134,8 +148,16 @@ a {
     left: 2rem;
     right: 2rem;
 }
+.pw-free-cnslt {
+    font-size: 0.8rem;
+}
 .pw-fxd-nav a {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+}
+@media screen and (min-width: 1300px) {
+    .pw-fxd-nav a {
+        font-size: 0.9rem;
+    }
 }
 .pw-hdr-logo {
     max-width: 7rem;
@@ -359,7 +381,7 @@ a {
 .pw-fxd-sid-nav-wrp {
     top: 25%;
     bottom: 25%;
-    z-index: 100000;
+    z-index: 200;
 }
 .pw-fxd-sid-scls {
     height: 2rem;
@@ -369,7 +391,7 @@ a {
 .pw-fxd-wtsp {
     bottom: 3rem;
     right: 2rem;
-    z-index: 100000;
+    z-index: 200;
 }
 .pw-fxd-wtsp-btn {
     transition: all 0.3s;
@@ -405,11 +427,12 @@ a {
     }
     to {
         transform: translateX(0);
-        opacity: 0.5;
+        opacity: 0.7;
     }
 }
 .pw-hero-p {
     animation: heroParagraph 0.8s linear;
+    opacity: 0.7;
 }
 
 .pw-like-btn {
@@ -702,8 +725,6 @@ a {
         opacity: 1;
     }
 }
-
-
 
 @media screen and (min-width: 992px) {
     .pw-hdr {
