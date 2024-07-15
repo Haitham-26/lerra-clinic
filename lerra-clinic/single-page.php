@@ -200,9 +200,9 @@
                             </div>
                             <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                             <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                            <div class="pw-crd-inf p-3 justify-content-between align-items-center">
+                            <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
                                 <div>
-                                    <a><i class="bi bi-person-circle fs-4" style="box-shadow: rgba(0, 0, 0, 0.5)"></i></a>
+                                    <a><i class="fa-solid fa-circle-user  fs-4"></i></a>
                                 </div>
                                 <div>
                                     <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -226,9 +226,9 @@
                             </div>
                             <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                             <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                            <div class="pw-crd-inf p-3 justify-content-between align-items-center">
+                            <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
                                 <div>
-                                    <a><i class="bi bi-person-circle fs-4"></i></a>
+                                    <a><i class="fa-solid fa-circle-user  fs-4"></i></a>
                                 </div>
                                 <div>
                                     <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -252,9 +252,9 @@
                             </div>
                             <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                             <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                            <div class="pw-crd-inf p-3 justify-content-between align-items-center">
+                            <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
                                 <div>
-                                    <a><i class="bi bi-person-circle fs-4"></i></a>
+                                    <a><i class="fa-solid fa-circle-user  fs-4"></i></a>
                                 </div>
                                 <div>
                                     <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
@@ -278,9 +278,9 @@
                             </div>
                             <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                             <div class="pw-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
-                            <div class="pw-crd-inf p-3 justify-content-between align-items-center">
+                            <div class="pw-crd-inf text-white w-100 position-absolute p-3 justify-content-between align-items-center">
                                 <div>
-                                    <a><i class="bi bi-person-circle fs-4"></i></a>
+                                    <a><i class="fa-solid fa-circle-user  fs-4"></i></a>
                                 </div>
                                 <div>
                                     <a class="text-center rounded d-flex justify-content-center gap-2 align-items-center"><i class="fa-regular fa-heart heart-icon fs-4"></i><span>0</span></a>
