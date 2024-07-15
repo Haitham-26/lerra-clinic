@@ -117,185 +117,74 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- FAQs -->
-        <section class="bg-white py-5">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-12 col-md-10">
-                        <h2 class="text-center text-md-start fw-bold text-main">FAQs</h2>
-                    </div>
-                    <div class="col-12 col-md-10">
-                        <div class="accordion mb-5" id="accordionExample">
-                            <div class="accordion-item pw-shdw-md rounded overflow-hidden my-2">
-                                <h2 class="accordion-header d-flex justify-content-start">
-                                    <button class="accordion-button text-main fw-bold d-flex align-items-center gap-4" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <i class="fa-solid fa-angle-down rounded-circle p-1"></i>
-                                        <span>What is the proccess of beard transplantation?</span>
-                                    </button>
-                                </h2>
-                            </div>
-                            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p class="text-ttl">The beard transplant method is similar to other hair transplant operations in that follicles are taken from the donor area, which is generally in the back of the hair scalp in the head, and then treated to be prepared for transplantation in the targeted areas of the beard.</p>
-                                </div>
-                            </div>
-                            <div class="accordion-item pw-shdw-md rounded overflow-hidden mb-2">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button text-main fw-bold collapsed d-flex align-items-center gap-4" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="fa-solid fa-angle-down rounded-circle p-1"></i>
-                                        Is beard transplantation done under general or local anesthesia?
-                                    </button>
-                                </h2>
-                            </div>
-                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p class="text-ttl">To avoid the pain of making the right openings for the cultivation of the follicles, only local anesthesia is provided to the area to be transplanted during the surgery of beard hair transplantation.</p>
-                                </div>
-                            </div>
-                            <div class="accordion-item pw-shdw-md rounded overflow-hidden mb-2">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button text-main fw-bold collapsed d-flex align-items-center gap-4" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        <i class="fa-solid fa-angle-down rounded-circle p-1"></i>
-                                        Is it possible to determine the shape of the beard that I want?
-                                    </button>
-                                </h2>
-                            </div>
-                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p class="text-ttl">One of the most significant benefits of beard transplantation is that you can agree with your doctor on the shape of the beard you want, and it is determined and drawn before beginning the process so that the follicles are implanted based on the shape of the beard you desire.</p>
-                                </div>
-                            </div>
-                            <div class="accordion-item pw-shdw-md rounded overflow-hidden mb-2">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button text-main fw-bold collapsed d-flex align-items-center gap-4" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        <i class="fa-solid fa-angle-down rounded-circle p-1"></i>
-                                        Are there procedures to be followed before a beard transplant?
-                                    </button>
-                                </h2>
-                            </div>
-                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p class="text-ttl">Yes, some tests are required by Lerra Clinic doctor to determine your suitability for a beard transplant, and the doctor must be informed if you are taking any treatments in order to determine whether to continue or discontinue the treatments until the procedure is completed, the treatments that prevent blood clotting like aspirin, and you must stop taking it before receiving a beard transplant.</p>
-                                </div>
-                            </div>
-                            <div class="accordion-item pw-shdw-md rounded overflow-hidden mb-2">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button text-main fw-bold collapsed d-flex align-items-center gap-4" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        <i class="fa-solid fa-angle-down rounded-circle p-1"></i>
-                                        What are the instructions to be followed after a beard transplant or Lerra Clinic?
-                                    </button>
-                                </h2>
-                            </div>
-                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p class="text-ttl">After the beard transplant is completed, you must not wash the beard area for a period of at least two days to ensure the stability of the follicles in the beard area. Also, you shouldn't sleep on your face because of the beard buildup and follicle shedding. So sleep on your back. It is also preferable to reduce physical exertion during the first two days after the beard transplant and you must follow the preparations and treatments that the doctor may prescribe depending on your condition and the number of grafts transplanted to you. Dear men, in order to get a perfect beard transplant result, you just need to contact our medical team at Lerra Clinic in Istanbul to give the best medical advice and follow the necessary procedures to get the beard transplant at Lerra Clinic in Istanbul. Lerra Clinic takes care of you as it should</p>
-                                </div>
-                            </div>
+        </div>
+    </section>
+    <!-- Prev Next post -->
+    <section class="mt-5">
+        <div class="container">
+            <div class="row gap-3 gap-md-0 align-items-center justify-content-between">
+                <!-- Desktop -->
+                <div class="d-none d-md-block col-md-3">
+                    <div class="col-md-12 col-10 d-flex align-items-center justify-content-between gap-md-4 rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
+                        <div>
+                            <i class="fa-solid fa-angle-left"></i>
                         </div>
-                    </div>
-                    <div class="col-12 col-md-10">
-                        <h2 class="text-center text-md-start fw-bold text-ttl mb-3">Book Your Beard Hair Transplant Procedure in Turkey Today at Lerra Clinic</h2>
-                        <p class="text-ttl">Our dedicated team of experienced surgeons and medical professionals is here to guide you through your beard hair transplant procedure journey in Turkey. Lerra Clinic combines the artistry of aesthetics with the science of surgery to provide you with exceptional beard cultivation results and unparalleled care.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- User info -->
-        <section class="mt-5">
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-md-6 col-10 p-4 rounded-3" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
-                        <div class="d-flex gap-3 align-items-center justify-content-start">
-                            <a>
-                                <i class="fa-solid fa-circle-user" style="font-size: 5em"></i>
-                            </a>
-                            <div class="d-flex flex-column">
-                                <a><h4>User Name</h4></a>
-                                <a><span>User Email</span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-ttl col-md-8 col-12 gap-3 mt-5 d-flex justify-content-center align-items-center">
-                        <a>
-                            <i class="fa-brands fa-facebook-f fs-3"></i>
-                            <a><span>Share on Facebook</span></a>
-                        </a>
-                        <a>
-                            <i class="fa-brands fa-x-twitter fs-3"></i>
-                            <a><span>Share on Twitter</span></a>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Prev Next post -->
-        <section class="mt-5">
-            <div class="container">
-                <div class="row gap-3 gap-md-0 align-items-center justify-content-between">
-                    <!-- Desktop -->
-                    <div class="d-none d-md-block col-md-3">
-                        <div class="col-md-12 col-10 d-flex align-items-center justify-content-center gap-4 rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
-                            <div>
-                                <i class="fa-solid fa-angle-left"></i>
-                            </div>
-                            <div class="pw-prv-pst text-ttl d-flex gap-3">
-                                <div class="d-flex flex-column justify-content-center">
-                                    <span>Previous post</span>
-                                    <h5 class="text-sub">Otoplasty in Turkey</h5>
-                                </div>
-                                <div>
-                                    <img src="./assets/img/prev-post.webp" class="rounded-3" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Next post -->
-                    <div class="d-none d-md-block col-md-3">
-                        <div class="col-md-12 col-10 d-flex align-items-center justify-content-center gap-4 rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
-                            <div class="text-ttl d-flex gap-3">
-                                <div>
-                                    <img src="./assets/img/next-post.webp" class="rounded-3" />
-                                </div>
-                                <div class="d-flex flex-column justify-content-center">
-                                    <span class="text-end">Next post</span>
-                                    <h5 class="text-sub">Otoplasty in Turkey</h5>
-                                </div>
-                            </div>
-                            <div>
-                                <i class="fa-solid fa-angle-right"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Phone -->
-                    <div class="d-md-none d-sm-block p-3">
-                        <div class="text-ttl d-flex align-items-center justify-content-around rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
-                            <div>
-                                <i class="fa-solid fa-angle-left"></i>
-                            </div>
-                            <div class="d-flex flex-column align-items-center">
+                        <div class="pw-prv-pst text-ttl d-flex gap-3 align-items-center w-100">
+                            <div class="d-flex flex-column justify-content-center">
                                 <span>Previous post</span>
-                                <h5 class="text-sub">Otoplasty in Turkey</h5>
+                                <p class="text-sub fs-5">Otoplasty in Turkey</p>
                             </div>
                             <div>
                                 <img src="./assets/img/prev-post.webp" class="rounded-3" />
                             </div>
                         </div>
                     </div>
-                    <!-- Next post phone -->
-                    <div class="d-md-none d-sm-block p-3">
-                        <div class="text-ttl d-flex align-items-center justify-content-around rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
+                </div>
+                <!-- Next post -->
+                <div class="d-none d-md-block col-md-3">
+                    <div class="col-md-12 col-10 d-flex align-items-center justify-content-between gap-md-4 rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
+                        <div class="pw-nxt-pst text-ttl d-flex gap-2 align-items-center justify-content-center w-100">
                             <div>
                                 <img src="./assets/img/next-post.webp" class="rounded-3" />
                             </div>
+                            <div class="d-flex flex-column justify-content-center">
+                                <span>Previous post</span>
+                                <p class="text-sub fs-5">Otoplasty in Turkey</p>
+                            </div>
+                        </div>
+                        <div>
+                            <i class="fa-solid fa-angle-right"></i>
+                        </div>
+                    </div>
+                </div>
 
-                            <div class="d-flex flex-column align-items-center">
-                                <span>Next post</span>
-                                <h5 class="text-sub">Otoplasty in Turkey</h5>
-                            </div>
-                            <div>
-                                <i class="fa-solid fa-angle-right"></i>
-                            </div>
+                <div class="d-md-none d-sm-block p-3">
+                    <div class="text-ttl d-flex align-items-center justify-content-around rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
+                        <div>
+                            <i class="fa-solid fa-angle-left"></i>
+                        </div>
+                        <div class="d-flex flex-column align-items-center">
+                            <span>Previous post</span>
+                            <h5 class="text-sub">Otoplasty in Turkey</h5>
+                        </div>
+                        <div>
+                            <img src="./assets/img/prev-post.webp" class="rounded-3" />
+                        </div>
+                    </div>
+                </div>
+                <!-- Next post phone -->
+                <div class="d-md-none d-sm-block p-3">
+                    <div class="text-ttl d-flex align-items-center justify-content-around rounded-3 p-1" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)">
+                        <div>
+                            <img src="./assets/img/next-post.webp" class="rounded-3" />
+                        </div>
+
+                        <div class="d-flex flex-column align-items-center">
+                            <span>Next post</span>
+                            <h5 class="text-sub">Otoplasty in Turkey</h5>
+                        </div>
+                        <div>
+                            <i class="fa-solid fa-angle-right"></i>
                         </div>
                     </div>
                 </div>

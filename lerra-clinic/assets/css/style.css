@@ -620,9 +620,17 @@ a {
     --bs-pagination-focus-bg: none;
     --bs-pagination-focus-color: none;
 }
+.pw-prv-pst {
+    transition: all 0.4s;
+    cursor: pointer;
+}
 
 .pw-prv-pst:hover {
     margin-left: 1em;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+.pw-nxt-pst {
     transition: all 0.4s;
     cursor: pointer;
 }
@@ -646,9 +654,11 @@ a {
 .pw-crd-min:hover .pw-crd-pst-img {
     transform: scale(1.02);
 }
+.pw-crd-pst {
+    transition: all 0.5s;
+}
 .pw-crd-pst:hover {
     transform: translateY(-5px);
-    transition: all 0.5s;
 }
 .pw-crd-overlay {
     background-color: rgba(50, 50, 50, 0.4);
