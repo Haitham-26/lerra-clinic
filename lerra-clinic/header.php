@@ -31,12 +31,12 @@
             </section>
             <nav class="navbar navbar-expand-lg d-block d-lg-none py-4">
                 <div class="row justify-content-between align-items-center w-75 m-auto">
-                    <div class="col-3">
-                        <a href="./index.php" class="pw-sm-hdr-logo">
+                    <div class="col-7">
+                        <a href="./index.php" class="pw-sm-hdr-logo d-block">
                             <img src="./assets/img/lerra-logo-header.png" alt="lerra-clinic" class="w-100" />
                         </a>
                     </div>
-                    <div class="col-3">
+                    <div class="col-5">
                         <div class="text-end d-flex align-items-center gap-2">
                             <button class="bg-transparent border-0" data-bs-toggle="modal" data-bs-target="#searchModal">
                                 <i class="fa-solid fa-magnifying-glass text-main fs-2"></i>

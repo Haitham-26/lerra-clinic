@@ -104,10 +104,16 @@ a {
 .pw-on-hvr-trns-top:hover {
     transform: translateY(-3px);
 }
+.pw-hero-elps {
+    height: 3rem;
+}
 
 /* Header */
 .pw-hdr {
     z-index: 200;
+}
+.pw-sm-hdr-logo {
+    width: 8rem;
 }
 #searchModal .modal-dialog {
     z-index: 201;
@@ -736,6 +742,9 @@ a {
     }
     .pw-trt-prcs-img-1 {
         max-width: 100%;
+    }
+    .pw-hero-elps {
+        height: 7rem;
     }
     .pw-page-hero {
         height: 75vh;
