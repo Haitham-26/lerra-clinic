@@ -3,11 +3,11 @@
     <section class="pw-hero-sctn position-relative overflow-hidden pt-5" style="z-index: 1">
         <!-- Desktop BG -->
         <div class="d-none d-lg-block position-absolute top-0 start-0 end-0 bottom-0 w-100 h-100" style="z-index: -1">
-            <video src="./assets/img/hero.mp4" muted autoplay loop class="h-100 w-100"></video>
+            <img src="./assets/img/dummy_1200x500_ffffff_cccccc.png" alt="..." class="w-100 h-100">
         </div>
         <!-- Phone - Tablet BG -->
         <div class="pw-sm-hero-bg d-lg-none position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
-            <img src="./assets/img/phone-hero-bg.jpg" alt="lerra-clinic" class="w-100 h-100" />
+            <img src="./assets/img/dummy_400x900_ffffff_cccccc.png" alt="lerra-clinic" class="w-100 h-100" />
         </div>
         <!-- Phone - Tablet Overlay -->
         <div class="pw-hero-overlay d-lg-none position-absolute top-0 start-0 end-0 bottom-0 w-100 h-100"></div>
@@ -78,32 +78,32 @@
                             <div class="row justify-content-between">
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/realself.jpg" alt="realself" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="realself" class="w-100" />
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/dental-departures.jpg" alt="dental-departures" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="dental-departures" class="w-100" />
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/medical-departures.jpg" alt="medical-departures" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="medical-departures" class="w-100" />
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/medigo.jpg" alt="medigo" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="medigo" class="w-100" />
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/unomedical.jpg" alt="unomedical" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="unomedical" class="w-100" />
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-2 gy-1">
                                     <div class="pw-ntwrk m-auto">
-                                        <img src="./assets/img/what-clinic.jpg" alt="what-clinic" class="w-100" />
+                                        <img src="./assets/img/dummy_160x60_ffffff_cccccc.png" alt="what-clinic" class="w-100" />
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
                     <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
-                            <img src="./assets/img/card-1.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
+                            <img src="./assets/img/dummy_360x480_ffffff_cccccc.png" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-clss-trt-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
@@ -145,7 +145,7 @@
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
                     <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
-                            <img src="./assets/img/card-2.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
+                            <img src="./assets/img/dummy_360x480_ffffff_cccccc.png" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-clss-trt-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
@@ -164,7 +164,7 @@
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
                     <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
-                            <img src="./assets/img/card-3.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
+                            <img src="./assets/img/dummy_360x480_ffffff_cccccc.png" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-clss-trt-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
@@ -183,7 +183,7 @@
                 <div class="col-12 col-md-6 col-lg-3 gy-2">
                     <div class="pw-clss-trt-crd pw-crd-anm wow m-auto position-relative rounded-3 overflow-hidden" style="z-index: 1;">
                         <div class="pw-clss-crd-img position-absolute top-0 bottom-0 start-0 end-0 w-100 h-100" style="z-index: -1">
-                            <img src="./assets/img/card-4.jpg" alt="facial-plastic-surgery" class="w-100 h-100" />
+                            <img src="./assets/img/dummy_360x480_ffffff_cccccc.png" alt="facial-plastic-surgery" class="w-100 h-100" />
                         </div>
                         <a href="#" class="d-block position-absolute top-0 end-0 start-0 bottom-0 w-100 h-100 pw-z-100"></a>
                         <div class="pw-clss-trt-crd-overlay position-absolute top-0 bottom-0 start-0 end-0"></div>
@@ -209,7 +209,7 @@
                 <div class="col-12 col-md-4 gy-4">
                     <div class="d-flex flex-column mt-3 gap-4 mx-1">
                         <div class="pw-trt-prcs-img-1 w-100">
-                            <img src="./assets/img/treatment-proccess-1.png" alt="treatment-proccess" class="w-100" />
+                            <img src="./assets/img/dummy_400x450_ffffff_cccccc.png" alt="treatment-proccess" class="w-100" />
                         </div>
                         <div class="d-flex flex-column gap-2">
                             <h2 class="text-sub" data-aos="fade-up" data-aos-offset="0">How Does the Treatment Process Work?</h2>
@@ -219,7 +219,7 @@
                                 <i class="fa-solid fa-plane-departure"></i>
                             </a>
                             <div class="pw-trt-prcs-img-2 d-none d-md-block mt-5 w-100 flex-shrink-0">
-                                <img src="./assets/img/treatment-proccess-2.png" alt="treatment-proccess" class="w-100" />
+                                <img src="./assets/img/dummy_400x450_ffffff_cccccc.png" alt="treatment-proccess" class="w-100" />
                             </div>
                         </div>
                     </div>
@@ -283,7 +283,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="position-relative">
-                        <img src="./assets/img/big-img-sctn.png" alt="turkey" class="w-100" />
+                        <img src="./assets/img/dummy_1500x800_ffffff_cccccc.png" alt="turkey" class="w-100" />
                         <div class="pw-ist-p position-absolute">
                             <p>Turkey is one of the top tourist destinations, offering a unique blend of cultures, natural beauty, and rich historical heritage.</p>
                         </div>
@@ -326,10 +326,10 @@
                 <div class="col-12 col-md-3 gy-3">
                     <div class="d-flex flex-column justify-content-center align-items-center gap-2 pw-trns-3 pw-on-hvr-trns-top">
                         <div>
-                            <img src="./assets/img/flight.jpg" alt="flight" class="w-100" />
+                            <img src="./assets/img/map.jpg" alt="flight" class="w-100" />
                         </div>
-                        <h3 class="text-sub fw-bold text-center">Book Your Flight</h3>
-                        <p class="text-ttl text-center">If you are satisfied with the treatment plan and the price sent to you, plan your trip.</p>
+                        <h3 class="text-sub fw-bold text-center">Discover Istanbul</h3>
+                        <p class="text-ttl text-center">After the treatment, all you have to do is have fun in Istanbul, the most beautiful city in the world.</p>
                     </div>
                 </div>
             </div>
@@ -426,7 +426,7 @@
                                 <div class="col-12 col-md-4 gy-3">
                                     <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
                                         <a href="#" class="pw-hsptl-img d-block  h-100">
-                                            <img src="./assets/img/istanbul-tema-hospital.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
+                                            <img src="./assets/img/dummy_400x270_ffffff_cccccc.png" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>
@@ -434,7 +434,7 @@
                                 <div class="col-12 col-md-4 gy-3">
                                     <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
                                         <a href="#" class="pw-hsptl-img d-block  h-100">
-                                            <img src="./assets/img/dental.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
+                                            <img src="./assets/img/dummy_400x270_ffffff_cccccc.png" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>
@@ -442,7 +442,7 @@
                                 <div class="col-12 col-md-4 gy-3">
                                     <div class="d-flex flex-column align-items-center justify-content-center gap-3 h-100">
                                         <a href="#" class="pw-hsptl-img d-block  h-100">
-                                            <img src="./assets/img/ikiteli-bahat-hospital.jpg" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
+                                            <img src="./assets/img/dummy_400x270_ffffff_cccccc.png" alt="istanbul-tema-hospital" class="w-100 h-100 rounded-3" />
                                         </a>
                                         <a href="#" class="text-center text-sub">Istanbul Tema Hospital</a>
                                     </div>
