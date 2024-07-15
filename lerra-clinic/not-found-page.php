@@ -6,12 +6,10 @@
                 <div class="col-md-6 col-12 justify-content-center align-items-center overflow-hidden">
                     <h1 style="font-size: 15em" class="text-center text-main d-none d-md-block">404</h1>
                     <h1 style="font-size: 10em" class="d-md-none text-center text-main">404</h1>
-
                     <hr class="text-main" />
                     <h2 class="text-center text-ttl">Page Not Found</h2>
                     <p class="text-ttl">The page does not exist or has been removed. You can use the search form on the side.</p>
                 </div>
-
                 <div class="col-md-6 col-12">
                     <div class="d-flex flex-column gap-2">
                         <h2 class="text-sub fw-bold fs-3">Search</h2>
