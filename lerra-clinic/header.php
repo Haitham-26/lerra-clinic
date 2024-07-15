@@ -18,7 +18,7 @@
     <body class="bg-light">
         <header class="pw-hdr">
             <!-- phone and tablet nav -->
-            <section class="d-lg-none bg-light">
+            <section class="d-lg-none bg-white">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -37,7 +37,7 @@
                         </a>
                     </div>
                     <div class="col-5">
-                        <div class="text-end d-flex align-items-center gap-2">
+                        <div class="d-flex align-items-center justify-content-end gap-2">
                             <button class="bg-transparent border-0" data-bs-toggle="modal" data-bs-target="#searchModal">
                                 <i class="fa-solid fa-magnifying-glass text-main fs-2"></i>
                             </button>

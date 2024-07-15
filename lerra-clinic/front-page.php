@@ -14,7 +14,7 @@
         <div class="container pw-hero-cntnt">
             <div class="row">
                 <div class="col-12 col-lg-7">
-                    <div class="h-100 d-flex flex-column justify-content-center gap-3 mt-lg-5">
+                    <div class="h-100 d-flex flex-column justify-content-center gap-3 mt-lg-5 px-4">
                         <h1 class="text-white fw-bold mt-lg-5" data-aos="fade-up">Lerra Clinic, for the Love of Change!</h1>
                         <p class="text-white fs-4 pw-hero-p wow">“Our priority is your constant satisfaction!”</p>
                         <a href="#" class="pw-hero-c2a-btn d-flex align-items-center justify-content-between bg-main text-white rounded-2 py-3 px-4" data-aos="fade-right" data-aos-delay="800">
@@ -114,7 +114,7 @@
         </div>
     </section>
     <!-- Class Treatment Section -->
-    <section class="my-5 pt-5">
+    <section class="my-5 py-5">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
@@ -203,10 +203,10 @@
         </div>
     </section>
     <!-- Treatment Proccess Section -->
-    <section class="my-5">
+    <section class="my-5 py-5">
         <div class="container-fluid container-lg">
             <div class="row align-items-center">
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-4 gy-4">
                     <div class="d-flex flex-column mt-3 gap-4 mx-1">
                         <div class="pw-trt-prcs-img-1 w-100">
                             <img src="./assets/img/treatment-proccess-1.png" alt="treatment-proccess" class="w-100" />
@@ -224,7 +224,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-4 gy-4">
                     <div class="d-flex flex-column gap-4 mx-1">
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top" style="margin-top: 6rem">
                             <div class="d-flex flex-column gap-2">
@@ -249,7 +249,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-4 gy-4">
                     <div class="d-flex flex-column gap-4 mx-1">
                         <div class="rounded-4 pw-trt-prcs-stp-crd bg-white p-5 pw-on-hvr-trns-top">
                             <div class="d-flex flex-column gap-2">
@@ -278,7 +278,7 @@
         </div>
     </section>
     <!-- Istanbul Photo Section -->
-    <section class="pw-ist-img-sctn overflow-hidden d-none d-lg-block my-5">
+    <section class="pw-ist-img-sctn overflow-hidden d-none d-lg-block my-5 py-5">
         <div class="container-fluid p-0">
             <div class="row">
                 <div class="col-12">
@@ -336,7 +336,7 @@
         </div>
     </section>
     <!-- Social Proof -->
-    <section class="my-5 overflow-hidden">
+    <section class="my-5 py-5 overflow-hidden">
         <div class="container-fluid p-0">
             <div class="row align-items-center">
                 <div class="col-1 d-none d-md-block"></div>
@@ -413,7 +413,7 @@
         </div>
     </section>
     <!-- Contracted Institutions Section -->
-    <section>
+    <section class="my-5 py-5">
         <div class="container">
             <div class="row">
                 <div class="col-12">

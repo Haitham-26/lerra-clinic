@@ -66,8 +66,8 @@ require_once("./header.php");
             </div>
             <div class="row justify-content-center justify-content-md-start">
                 <div class="col-12 col-md-6 col-lg-4">
-                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded" data-aos="fade-up" data-aos-offset="200">
-                        <div class="d-flex flex-column gap-3 p-1">
+                    <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white rounded-3" data-aos="fade-up" data-aos-offset="200">
+                        <div class="d-flex flex-column gap-3 p-5">
                             <h4 class="text-sub fw-bolder">Send us a message</h4>
                             <p class="text-sub fw-mdeium">GET FREE MEDICAL CONSULTATİON</p>
                             <div class="container p-0">
