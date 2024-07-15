@@ -235,7 +235,7 @@ a {
     }
 }
 .pw-crd-anm {
-    animation: cardTransformation 0.9s linear;
+    animation: cardTransformation 0.5s linear;
     transform-origin: center;
 }
 .pw-black-overlay {

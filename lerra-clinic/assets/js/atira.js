@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 slidesPerView: 1.2,
             },
         },
-        loop: true,
         pagination: {
             el: ".swiper-pagination",
             clickable: true,

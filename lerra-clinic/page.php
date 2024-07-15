@@ -30,7 +30,6 @@
                 </div>
             </div>
         </section>
-
         <!-- Content -->
         <section class="mt-5">
             <div class="container">
@@ -43,7 +42,7 @@
 
                     <div class="col-1 d-none d-md-block"></div>
                     <div class="col-12 col-md-5">
-                        <div class="mt-5">
+                        <div class="mt-3">
                             <p class="text-ttl">Beards are once again at the peak of fashion. A beard frames a man’s face and gives him a distinguished, masculine appearance.</p>
                             <p class="text-ttl">However, up to 50% of men have difficulty growing a full beard. For many people, this is no problem, but for some, if hair grows only in patches or not at all, it can be detrimental to their sense of well-being. That’s because the growth of a bushy beard is considered a sign of masculinity for men.</p>
                             <p class="text-ttl">The solution lies in beard hair transplantation in Turkey, which is a surgical procedure consisting of thickening and thinning areas of the beard with follicular units taken from a donor area of ​​the scalp. After a few months, the hairs of the hair bulbs implanted in the face will grow naturally, taking on the characteristics of beard hair.</p>
@@ -57,9 +56,9 @@
                     <div class="col-1 d-none d-md-block"></div>
 
                     <div class="col-1 d-none d-md-block"></div>
-                    <div class="col-12 col-md-10">
+                    <div class="col-12 col-md-10 gy-5">
                         <h2 class="fw-bold text-ttl text-center text-md-start">What Is a Beard Transplant?</h2>
-                        <p class="text-ttl mt-5">Nowadays, beard transplants in Turkey are incredibly popular. Yet, like any other cosmetic surgery procedure, there are some essential criteria for undergoing surgery.</p>
+                        <p class="text-ttl mt-3">Nowadays, beard transplants in Turkey are incredibly popular. Yet, like any other cosmetic surgery procedure, there are some essential criteria for undergoing surgery.</p>
                         <p class="text-ttl">The main thing is whether you have enough hair to be able to take from the donor area. The two areas often used are the back and sides of the head.</p>
                         <p class="text-ttl">During the consultation, the surgeon examines your scalp and assesses whether you have enough hair to extract, given that the neck and jaw may also be suitable donor areas.</p>
                         <p class="text-ttl">In addition, the doctor also examines your general health, asking if you suffer from any conditions, including hormonal disorders, heart disease, or diabetes.</p>
@@ -92,7 +91,6 @@
                 </div>
             </div>
         </section>
-
         <!-- FAQs -->
         <section class="bg-white py-5">
             <div class="container">
@@ -180,7 +178,7 @@
         <section class="pw-cntct-us-bg my-5 p-md-5 p-0">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-lg-4 g-2">
+                    <div class="col-12 col-lg-4 gy-2">
                         <a href="tel:+905399268888" class="d-flex align-items-center gap-3 bg-white pw-shdw-md pw-trns-3 pw-on-hvr-trns-top rounded-3 p-4">
                             <i class="fa-solid fa-phone-volume pw-cntct-frm-lnk-icon text-main bg-light-main fs-2 rounded-circle p-3 d-flex align-items-center justify-content-center"></i>
                             <div class="d-flex flex-column">
@@ -189,7 +187,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-lg-4 g-2">
+                    <div class="col-12 col-lg-4 gy-2">
                         <a href="mailto:info@lerraclinic.com" class="d-flex align-items-center gap-3 bg-white pw-shdw-md pw-trns-3 pw-on-hvr-trns-top rounded-3 p-4">
                             <i class="fa-solid fa-envelope-circle-check pw-cntct-frm-lnk-icon text-main bg-light-main p-3 rounded-circle fs-2 d-flex align-items-center justify-content-center"></i>
                             <div class="d-flex flex-column">
@@ -198,7 +196,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-lg-4 g-2">
+                    <div class="col-12 col-lg-4 gy-2">
                         <a href="#" class="d-flex align-items-center gap-3 bg-white pw-shdw-md pw-trns-3 pw-on-hvr-trns-top rounded-3 p-4">
                             <i class="fa-solid fa-earth-americas pw-cntct-frm-lnk-icon text-main bg-light-main fs-2 rounded-circle p-3 d-flex align-items-center justify-content-center"></i>
                             <div class="d-flex flex-column">
@@ -210,8 +208,8 @@
                 </div>
                 <div class="row justify-content-center justify-content-md-start">
                     <div class="col-12 col-md-6 col-lg-4">
-                        <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white p-5 rounded" data-aos="fade-up" data-aos-offset="200">
-                            <div class="d-flex flex-column gap-3 p-1">
+                        <form class="pw-frm mt-5 pw-cntct-sctn-frm bg-white rounded-3" data-aos="fade-up" data-aos-offset="200">
+                            <div class="d-flex flex-column gap-3 p-5">
                                 <h4 class="text-sub fw-bolder">Send us a message</h4>
                                 <p class="text-sub fw-mdeium">GET FREE MEDICAL CONSULTATİON</p>
                                 <div class="container p-0">
