@@ -30,8 +30,8 @@
                 </div>
             </section>
             <nav class="navbar navbar-expand-lg d-block d-lg-none py-4">
-                <div class="row justify-content-between align-items-center w-75 m-auto">
-                    <div class="col-7">
+                <div class="row justify-content-between align-items-center w-100">
+                    <div class="col-6">
                         <a href="./index.php" class="pw-sm-hdr-logo d-block">
                             <img src="./assets/img/lerra-logo-header.png" alt="lerra-clinic" class="w-100" />
                         </a>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav w-75 m-auto mt-3 ps-3">
+                    <ul class="navbar-nav w-100 m-auto mt-3 ps-3">
                         <li class="nav-item">
                             <a class="nav-link text-ttl fw-bold" href="./index.php">Home</a>
                         </li>
