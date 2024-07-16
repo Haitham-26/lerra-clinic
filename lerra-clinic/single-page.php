@@ -17,9 +17,9 @@
                                 </h1>
                             </div>
                             <div class="d-flex align-items-center gap-2 fw-bold animate__animated animate__fadeInLeft wow" style="animation-delay: 0.2s">
-                                <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
+                                <a href="./index.php" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
                                 <i class="fa-solid fa-angle-right text-white opacity-75"></i>
-                                <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Genel</a>
+                                <a href="./archive.php" class="pw-hero-home-lnk text-white pw-trns-3">Genel</a>
                                 <i class="fa-solid fa-angle-right text-white opacity-75"></i>
                                 <span class="text-white opacity-75">How does a chin implant work?</span>
                             </div>
@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-8">
-                        <img class="w-100 h-50 rounded-3 justify-content-center" src="./assets/img/search-page-recent-posts-1.jpg" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)" />
+                        <img class="w-100 h-50 rounded-3 justify-content-center align-items-center" src="./assets/img/search-page-recent-posts-1.jpg" style="box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15)" />
                     </div>
                 </div>
             </div>

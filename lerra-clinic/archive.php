@@ -11,7 +11,7 @@
                                 <h1 class="text-white fw-bold mb-3 animate__animated animate__fadeInUp wow" style="animation-delay: 0.3s">Us</h1>
                             </div>
                             <div class="d-flex align-items-center gap-2 fw-bold animate__animated animate__fadeInLeft wow" style="animation-delay: 0.2s">
-                                <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
+                                <a href="./index.php" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
                                 <i class="fa-solid fa-angle-right text-white opacity-75"></i>
                                 <span class="text-white opacity-75">Blog</span>
                             </div>
