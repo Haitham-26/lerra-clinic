@@ -13,7 +13,7 @@ require_once("./header.php");
                             <h1 class="text-white fw-bold mb-3" data-aos="fade-up" data-aos-delay="200" style="animation-delay: 0.3s">Us</h1>
                         </div>
                         <div class="d-flex align-items-center gap-2 fw-bold" data-aos="fade-right" data-aos-delay="300">
-                            <a href="./index.html" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
+                            <a href="./index.php" class="pw-hero-home-lnk text-white pw-trns-3">Home</a>
                             <i class="fa-solid fa-angle-right text-white opacity-75"></i>
                             <span class="text-white opacity-75">Conatct Us</span>
                         </div>
